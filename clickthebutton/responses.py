@@ -191,6 +191,8 @@ COOLDOWN_OVER = [
         " total clicks.",
     ),
     ("I have only been clicked ", total_clicks, " times. :("),
+    lambda x: random_emoji() * random.randint(1, 3),
+    "Good morning!",
 ]
 
 
@@ -304,7 +306,7 @@ def random_censored_words(style: str = r"\*", count: int = 1, random_word=True) 
     if random_word:
         words.append(random_line("words.txt"))
         random.shuffle(words)
-    return " " + " ".join(words)
+    return " ".join(words)
 
 
 async def random_oeis_sequence() -> str:
@@ -351,6 +353,11 @@ def random_tone_indicators(rolls: int = 19) -> str:
         if random.random() < 0.05:
             tone.add(random_line("tone_indicators.txt"))
     return " ".join(tone)
+
+
+def random_wikipedia_guideline() -> str:
+    shortcut = random_line("wikipedia_guidelines.txt")
+    return f"[{shortcut}](<https://en.wikipedia.org/wiki/{shortcut}>)"
 
 
 MONTHS = [
@@ -768,7 +775,7 @@ FOUGHT_OFF = [
     ("diverted {} with an anime about ", random_anime_tags),
     (
         "provided {} with [a relevant XKCD](<https://xkcd.com/",
-        lambda: random.randint(1, 2889),
+        lambda: random.randint(1, 3055),
         ">)",
     ),
     (
@@ -808,6 +815,15 @@ FOUGHT_OFF = [
     "performed multiple stereoelectroencephalographies on",
     "synthesized tetramethylenedisulfotetramine with",
     "created hexanitrohexaazaisowurtzitane as a gift for",
+    "solved the P vs NP problem with",
+    "contested",
+    ('sent "', random_emoji, '" to'),
+    "severed",
+    ("gifted ", lambda: random_line("valorant_skins.txt"), " to"),
+    "outpositioned",
+    "griefed",
+    ("informed {} about ", random_wikipedia_guideline),
+    ("won a dispute against {} with ", random_wikipedia_guideline),
 ]
 
 SINGULAR_FOUGHT_OFF = [
@@ -853,6 +869,10 @@ SINGULAR_FOUGHT_OFF = [
     ),
     "created daylight between themself and",
     "had a heated debate with {} from the Department of the Bleeding Obvious",
+    ("found mate in ", lambda: random.randint(1, 10), " against"),
+    "sent {} eighth",
+    "griefed {}'s streak while playing a high-risk high-reward loss streak cashout trait",
+    ("contested {} playing ", lambda: random_line("tft_comps.txt")),
 ]
 
 
@@ -914,21 +934,27 @@ async def random_fought_off(amount: int) -> str:
 ENDING_PUNCTUATION = [
     ".",
     "!",
-    "!!",
     "!1!",
     "!?",
     "~",
     "...",
-    "!!!",
     "",
     "‽",
 ]
 
 
 def random_ending_punctuation() -> str:
-    return random.choices(
-        ENDING_PUNCTUATION, cum_weights=(4, 5, 6, 7, 8, 9, 10, 11, 12, 13)
+    punctuation = random.choices(
+        ENDING_PUNCTUATION, cum_weights=(4, 5, 6, 7, 8, 9, 10, 11)
     )[0]
+    for x in range(10):
+        if random.random() < 0.1:
+            punctuation += punctuation
+        else:
+            break
+    if not punctuation.startswith(".") and random.random() < 0.1:
+        punctuation = " " + punctuation
+    return punctuation
 
 
 GOT_A_CLICK = [
@@ -946,6 +972,8 @@ GOT_A_CLICK = [
     "acquired a click",
     "earned a click",
     "gained a click",
+    "got a click again",
+    "somehow got a click",
 ]
 
 

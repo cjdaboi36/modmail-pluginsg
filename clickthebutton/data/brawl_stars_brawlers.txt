@@ -1,4 +1,11 @@
 # https://api.brawlapi.com/v1/brawlers
+Ollie
+Meeple
+Buzz Lightyear
+Juju
+Shade
+Kenji
+Moe
 Clancy
 Berry
 Lily

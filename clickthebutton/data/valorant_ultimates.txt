@@ -3,6 +3,7 @@ Thrash
 Nightfall
 Rolling Thunder
 Annihilation
+Armageddon
 Showstopper
 Tour De Force
 NULL/cmd
@@ -11,6 +12,7 @@ Neural Theft
 Hunter's Fury
 Lockdown
 Reckoning
+Steel Garden
 Viper's Pit
 Run it Back
 Cosmic Divide

@@ -6,6 +6,8 @@ sys.path.append(str(Path(__file__).parent.joinpath("..")))
 
 from clickthebutton.responses import FOUGHT_OFF, SINGULAR_FOUGHT_OFF
 
+DYNAMIC_ONLY = True
+
 
 async def main():
     for verb in FOUGHT_OFF + SINGULAR_FOUGHT_OFF:
@@ -20,7 +22,9 @@ async def main():
                 else:
                     parts.append(part)
             verb = "".join(parts)
-        print(verb)
+            print(verb)
+        elif not DYNAMIC_ONLY:
+            print(verb)
 
 
 if __name__ == "__main__":

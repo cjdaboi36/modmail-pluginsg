@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-
 from core.utils import open_data_file
 
 url = "https://fortnite.fandom.com/wiki/Named_Locations"
@@ -14,4 +13,6 @@ with open_data_file("fortnite_named_locations") as f:
         for i, tr in enumerate(body.find_all("tr")):
             if i == 0:
                 continue
-            f.write(tr.find("a").string + "\n")
+            loc = tr.find("a").string
+            if loc != "S1":
+                f.write(loc + "\n")

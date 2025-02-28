@@ -15,6 +15,10 @@ Deadlock's Sonic Sensor
 Deadlock's Barrier Mesh
 Deadlock's GravNet
 Deadlock's Annihilation
+Tejo's Guided Salvo
+Tejo's Special Delivery
+Tejo's Armageddon
+Tejo's Stealth Drone
 Raze's Blast Pack
 Raze's Paint Shells
 Raze's Boom Bot
@@ -47,13 +51,17 @@ Harbor's Cove
 Harbor's Cascade
 Harbor's High Tide
 Harbor's Reckoning
+Vyse's Shear
+Vyse's Arc Rose
+Vyse's Razorvine
+Vyse's Steel Garden
 Viper's Poison Cloud
 Viper's Toxic Screen
 Viper's Snake Bite
 Viper's Viper's Pit
 Phoenix's Blaze
-Phoenix's Curveball
 Phoenix's Hot Hands
+Phoenix's Curveball
 Phoenix's Run it Back
 Astra's Nova Pulse
 Astra's Nebula  / Dissipate

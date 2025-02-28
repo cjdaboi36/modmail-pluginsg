@@ -8,6 +8,7 @@ a barking dog seldom bites
 a bird in the hand
 a bird in the hand is worth two in the bush
 a broken clock is right twice a day
+absence makes the heart go yonder
 absence makes the heart grow fonder
 a buck is a buck
 a buck is a buck is a buck
@@ -20,9 +21,12 @@ a cat can look at a king
 a cat in gloves catches no mice
 a cat may look at a king
 accidents will happen in the best regulated families
+a chain is as strong as its weakest link
+a chain is no stronger than its weakest link
 a chain is only as strong as its weakest link
 a change is as good as a rest
 a closed mouth catches no flies
+a closed mouth doesn't get fed
 a closed mouth gathers no feet
 a contented mind is a perpetual feast
 a creaking door hangs longest
@@ -40,14 +44,17 @@ a friend in need is a friend indeed
 age is just a number
 a golden key can open any door
 a good beginning makes a good ending
+a good conscience is a soft pillow
 a good deed is its own reward
 a healthy body is a healthy mind
 a hit dog will holler
 a house divided against itself cannot stand
 a house is not a home
+a hungry man is an angry man
 a journey of a thousand miles begins with a single step
 a leopard cannot change its spots
 a leopard does not change its spots
+a lie can run around the world before the truth can get its boots on
 a lie has no legs
 a little knowledge is a dangerous thing
 a little learning is a dangerous thing
@@ -59,6 +66,7 @@ all cats are grey by night
 all cats are grey in the dark
 all good things come to an end
 all good things must come to an end
+all is fair in love and war
 all is fish that comes to the net
 all politics are local
 all politics is local
@@ -86,7 +94,9 @@ an apple a day keeps the doctor away
 an army marches on its stomach
 an Englishman's home is his castle
 a new broom sweeps clean
+a new broom sweeps clean, but an old broom knows all the corners
 a new broom sweeps clean, but an old broom knows the corners
+a new broom sweeps clean, but the old broom knows the corners
 an eye for an eye, a tooth for a tooth
 an eye for an eye makes the whole world blind
 a nod is as good as a wink
@@ -123,6 +133,7 @@ as one door closes, another opens
 a sorrow shared is a sorrow halved
 a spoonful of sugar helps the medicine go down
 a spoonful of sugar makes the medicine go down
+as the mountain could not wait upon Mahomet, Mahomet would go to the mountain
 as the twig is bent, so is the tree inclined
 a stick in a bundle cannot be broken
 a stick in a bundle is unbreakable
@@ -146,6 +157,7 @@ a watched pot never boils
 a watched pot never boils over
 a wild goose never laid a tame egg
 a woman's work is never done
+a worry shared is a worry halved
 bad facts make bad law
 bad money drives out good
 bad news travels fast
@@ -156,12 +168,16 @@ beauty fades, dumb is forever
 beauty is but skin-deep
 beauty is in the eye of the beholder
 beauty is only skin deep
+beauty never boiled the pot
+beauty won't boil the pot
+beauty won't make the pot boil
 beggars can't be choosers
 behind every great man is a great woman
 behind every great man there stands a woman
 behind every successful man there stands a woman
 being poor is a mindset
 being poor is a state of mind
+believing is seeing
 bet on the jockey, not the horse
 better an egg today than a hen tomorrow
 better dead than red
@@ -185,6 +201,7 @@ bi now, gay later
 bird in the hand
 birds of a feather flock together
 birds of the feather flock together
+bis dat qui cito dat
 blood is thicker than water
 boys will be boys
 brevity is the soul of wit
@@ -192,22 +209,18 @@ bros before hoes
 bros before hos
 business before pleasure
 buy cheap, buy twice
-buy low, sell high
-buy when it snows, sell when it goes
-buy when it snows and sell when it goes
 by failing to prepare, you are preparing to fail
 Caesar's wife must be above suspicion
 cannot live with them, cannot live without them
 can't live with 'em, can't live without 'em
-can't live with them, can't live without them
 can't live with them and can't live without them
+can't live with them, can't live without them
 care killed a cat
 care killed the cat
 carpe diem
-carpe diem cras
 cast not a clout till May be out
-cats rule, dogs drool
 cats rule; dogs drool
+cats rule, dogs drool
 caveat lector
 charity begins at home
 cheaters never prosper
@@ -225,6 +238,7 @@ clothes don't make the man
 clothes maketh the man
 cobbler, keep to your last
 cold hands, warm heart
+common sense is neither common nor sensical
 comparison is the thief of joy
 cooler heads must prevail
 cooler heads prevail
@@ -260,16 +274,23 @@ different strokes for different folks
 discretion is the better part of valor
 discretion is the better part of valour
 divide and conquer
-do as I say, not as I do
 do as I say and not as I do
+do as I say, not as I do
+doctor, heal thyself
 doctors make the worst patients
 does Macy's tell Gimbel's
+dogs have masters; cats have staff
 dogs have masters, cats have staff
 dogs have owners, cats have staff
+do not sit in Rome and strive with the Pope
 don't buy green bananas
 don't change a winning team
+don't count your chickens
 don't count your chickens before the eggs have hatched
 don't count your chickens before they're hatched
+don't count your chicks
+don't count your chicks before they hatch
+don't count your chicks before they're hatched
 don't cry over spilled milk
 don't dip your pen in company ink
 don't drive faster than your guardian angel can fly
@@ -297,8 +318,11 @@ don't teach your grandmother to steal sheep
 don't try to teach grandma how to suck eggs
 do unto others as you would have them do unto you
 do what I say, not what I do
+drastic times call for drastic measures
 dripping water hollows a stone
 drive for show, putt for dough
+drop acid, not bombs
+drunken words are sober thoughts
 drunk words are sober thoughts
 each to his own
 early to bed, early to rise, makes a man healthy, wealthy and wise
@@ -324,6 +348,7 @@ even a stopped clock is right twice a day
 even a worm will turn
 even Homer nods
 even Jove nods
+every accusation is a confession
 every cloud has a silver lining
 every dark cloud has a silver lining
 every day is a school day
@@ -347,6 +372,7 @@ every shut eye isn't asleep
 every silver lining has a cloud
 every stick has two ends
 everything happens for a reason
+everything is fair in love and war
 everything old is new again
 evil be to him who evil thinks
 experience is the best teacher
@@ -358,9 +384,11 @@ failure is the best teacher
 failure to prepare is preparing to fail
 faint heart never won fair lady
 fair exchange is no robbery
+faith can move mountains
 faith will move mountains
 fall seven times, stand up eight
 familiarity breeds contempt
+fas est et ab hoste doceri
 fat is flavor
 fat is flavour
 feed a cold, starve a fever
@@ -389,10 +417,12 @@ freedom ain't free
 freedom is not free
 freedom isn't free
 freedom's not free
+game is game
 garbage in, garbage out
 gender is between your ears, not between your legs
 genius is one percent inspiration, ninety-nine percent perspiration
 get woke, go broke
+give a dog a bad name and hang him
 give a man a fish
 give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime
 give him enough rope and he'll hang himself
@@ -400,7 +430,7 @@ given enough eyeballs, all bugs are shallow
 give someone an inch and someone will take a mile
 give them an inch and they'll take a mile
 give them an inch and they'll take an ell
-go hard or go home
+God doesn't give with both hands
 God helps them that help themselves
 God helps them who help themselves
 God helps those who help themselves
@@ -408,6 +438,7 @@ God is in the detail
 gods may do what cattle may not
 God works in mysterious ways
 go fash, lose cash
+go hard or go home
 gold is where you find it
 good artists copy, great artists steal
 good fences make good neighbors
@@ -430,8 +461,10 @@ half a loaf is better than none
 handsome is as handsome does
 handsome is that handsome does
 happy wife, happy life
+hard cases make bad law
 haste makes waste
 haters gonna hate
+hate the game, not the player
 health is your first wealth
 heaven helps those that help themselves
 heaven helps those who help themselves
@@ -462,10 +495,14 @@ honesty is the best policy
 honey catches more flies than vinegar
 hope springs eternal
 hope springs eternal in the human breast
+how you get them is how you lose them
 hunger is a good sauce
+hunger is the best pickle
 hunger is the best sauce
+hunger is the best seasoning
 hunger is the best spice
 hunt where the ducks are
+hurt people hurt people
 hydrate or diedrate
 IAR
 I before E, except after C
@@ -486,6 +523,7 @@ if it looks like a duck
 if it looks like a duck, swims like a duck, and quacks like a duck, then it probably is a duck
 if it looks like a duck, swims like a duck, and quacks like a duck, then it's probably a duck
 if pigs had wings they would fly
+if the mountain won't come to Mohammed
 if the mountain won't come to Muhammad
 if the mountain won't come to Muhammad, then Muhammad must go to the mountain
 if there's grass on the field, play ball
@@ -497,6 +535,7 @@ if wishes were horses, beggars might ride
 if wishes were horses, beggars would ride
 if you aim at nothing, you'll hit it every time
 if you believe everything you read, better not to read
+if you build it, they will come
 if you can't beat them, join them
 if you can't do the time, don't do the crime
 if you can't lick them, join them
@@ -528,7 +567,6 @@ in the valley of the blind, the one-eyed man is king
 in unity, there is strength
 in vino veritas
 in wine, there is truth
-it is what it is
 it ain't over till it's over
 it ain't over till the fat lady sings
 it ain't over 'til the fat lady sings
@@ -536,9 +574,6 @@ it ain't over until the fat lady sings
 it ain't the meat, it's the motion
 it ain't the whistle that pulls the train
 it doesn't matter what they say about you as long as they spell your name right
-I think; therefore, I am
-I think; therefore I am
-I think therefore I am
 it is always darkest before the dawn
 it is always darkest just before the dawn
 it is a wise child that knows his own father
@@ -553,6 +588,7 @@ it isn't over till the fat lady sings
 it isn't over 'til the fat lady sings
 it isn't over until the fat lady sings
 it isn't the whistle that pulls the train
+it is what it is
 it never rains but it pours
 it never rains but that it pours
 it pays to advertise
@@ -570,6 +606,9 @@ it's better to be judged by twelve than to be carried by six
 it's easier to ask forgiveness than to get permission
 it's lonely at the top
 it's never too late to mend
+it's not over till the fat lady sings
+it's not over 'til the fat lady sings
+it's not over until the fat lady sings
 it's not the meat, it's the motion
 it's not the whistle that pulls the train
 it's not what you know but whom you know
@@ -592,8 +631,10 @@ it takes two to quarrel
 it takes two to tango
 it took Nixon to go to China
 it wasn't only only
+iura novit curia
 I want doesn't get
 Joan's as good as my lady in the dark
+judge not, lest ye be judged
 judge not, that ye be not judged
 judge not, that you be not judged
 justice delayed is justice denied
@@ -608,7 +649,6 @@ laugh and grow fat
 laugh before breakfast, cry before supper
 laughter is the best medicine
 least said, soonest mended
-leave it all on the field
 leaves of three, let it be
 leave with the one that brought ya
 leave with the one that brung ya
@@ -630,10 +670,11 @@ life is like a box of chocolates
 life is not all beer and skittles
 lightning does not strike twice in the same place
 lightning doesn't strike twice in the same place
+lightning never strikes the same place twice
 lightning never strikes twice
 lightning never strikes twice in the same place
-like father, like son
 like father like son
+like father, like son
 like mother, like daughter
 little pitchers have big ears
 little pitchers have long ears
@@ -652,8 +693,8 @@ loss and gain are brothers twain
 love conquers all
 love is blind
 love is love
-love the sinner, hate the sin
 love the sinner but hate the sin
+love the sinner, hate the sin
 lucky at cards, unlucky in love
 mackerel sky and mare's-tails make lofty ships carry low sails
 mackerel sky and mare's-tails make tall ships carry low sails
@@ -669,20 +710,20 @@ many a mickle makes a muckle
 many hands make light work
 March comes in like a lion and goes out like a lamb
 marry in haste, repent at leisure
-measure twice, cut once
 measure twice and cut once
-mess with the bull, get the horns
+measure twice, cut once
 mess with the bull and you get the horns
+mess with the bull, get the horns
 might is right
 might makes right
 mighty oaks from little acorns grow
-mind over matter
 misery enjoys company
 misery loves company
 misfortunes never come alone
 misfortunes never come singly
 misters before sisters
 mocking is catching
+money cannot buy happiness
 money can't buy happiness
 money does not smell
 money does not stink
@@ -690,10 +731,13 @@ money doesn't grow on trees
 money has no smell
 money is the root of all evil
 money talks
-money talks, bullshit walks
 money talks and bullshit walks
+money talks, bullshit walks
+money talks, wealth whispers
 money won is twice as sweet as money earned
 more haste, less speed
+move it or lose it
+move your feet, lose your seat
 murder will out
 my enemy's enemy is my friend
 nearly never bulled a cow
@@ -705,9 +749,9 @@ needs must
 needs must when the devil drives
 ne'er cast a clout till May be out
 neither a borrower nor a lender be
-never fight a land war in Asia
 never ask the barber if you need a haircut
 never change a running system
+never fight a land war in Asia
 never judge a book by its cover
 never look a gift horse in the mouth
 never meet your heroes
@@ -730,6 +774,8 @@ no guts, no glory
 no human is illegal
 no hymen, no diamond
 no man is an island
+no matter how much milk you put in coffee, it's still coffee
+no matter how much milk you put in tea, it's still tea
 no matter how thin you slice it, it's still baloney
 no matter how thin you slice it, it's still boloney
 no matter how you slice it, it's still the same old baloney
@@ -749,6 +795,7 @@ no rose without a thorn
 no sleep for the wicked
 no smoke without fire
 not all heroes wear capes
+nothing is certain but death and taxes
 nothing is said that has not been said before
 nothing new under the sun
 nothing succeeds like success
@@ -760,6 +807,8 @@ old sins cast long shadows
 old sins have long shadows
 once a man, twice a boy
 once a man, twice a child
+once an adult and twice a child
+once an adult, twice a child
 once a woman, twice a child
 once bitten, twice shy
 once burned, twice cautious
@@ -800,21 +849,23 @@ one swallow doesn't make a spring
 one swallow doesn't make a summer
 one who hesitates is lost
 one woman's trash is another woman's treasure
+only dead fish go with the flow
 only fools and horses work
 only Nixon can go to China
 only Nixon could go to China
 only the good die young
-on the Internet, nobody knows you're a dog
 on the Internet nobody knows you're a dog
+on the Internet, nobody knows you're a dog
 ontogeny recapitulates phylogeny
 opinions are like assholes
 opportunity knocks at every man's door
 opportunity makes a thief
+opportunity makes the thief
 opportunity seldom knocks twice
 opposites attract
 other days, other ways
-out of sight, out of mind
 out of sight is out of mind
+out of sight, out of mind
 out of the mouths of babes
 out of the mouths of babes and sucklings
 outta sight, outta mind
@@ -873,7 +924,9 @@ Rome wasn't built in a day
 Rome wasn't burned in a day
 rubbish in, rubbish out
 rules are made to be broken
+rules are meant to be broken
 rules are rules
+rules are there to be broken
 rules is rules
 same shit, different toilet
 sauce for the goose
@@ -884,15 +937,13 @@ seeing is believing
 seek and ye shall find
 see Naples and die
 self-praise is no recommendation
-sell in May
 sell in May, then go away
 sell in May, then stay away
-sell in May and go away
-sell in May and stay away
-sell in May then go away
 semper ubi sub ubi
 set a beggar on horseback and he'll ride to the Devil
 shallow brooks are noisy
+shared joy is double joy
+shared sorrow is half sorrow
 shirtsleeves to shirtsleeves in three generations
 shit rolls downhill
 shoemaker, stick to your last
@@ -905,7 +956,6 @@ silence is consent
 silence is golden
 silence is oppression
 sisters before misters
-six of one, half a dozen of the other
 slow and steady wins the race
 slow but sure wins the race
 slow is smooth, smooth is fast
@@ -913,12 +963,12 @@ small rain lays great dust
 snitches get stitches
 snitches get stitches and end up in ditches
 snitches get stitches and wind up in ditches
-so far so good
+so far so bad
 some days you get the bear, other days the bear gets you
 something is better than nothing
 sometimes you eat the bear and sometimes the bear eats you
-sow the wind, reap the whirlwind
 sow the wind and reap the whirlwind
+sow the wind, reap the whirlwind
 spare the rod and spoil the child
 speak of the devil and he appears
 speak softly and carry a big stick
@@ -994,6 +1044,7 @@ the devil is in the detail
 the devil is in the details
 the devil makes work for idle hands
 the devil takes care of his own
+the devil that you know is better than the devil that you don't know
 the devil we know is better than the devil we don't
 the devil we know is better than the devil we don't know
 the devil you know
@@ -1034,11 +1085,13 @@ the jug goes to the well until it breaks
 the laborer is worthy of his hire
 the labourer is worthy of his hire
 the law is a ass
+the law is an arse
 the law is an ass
 the longest pole knocks the persimmon
 the Lord helps those that help themselves
 the Lord helps those who help themselves
-The Lord works in mysterious ways
+the Lord works in mysterious ways
+the love of money is the root of all evil
 the map is not the territory
 the mill cannot grind with water that is past
 the mills of the gods grind slowly
@@ -1046,12 +1099,12 @@ the more one learns about people, the more one likes one's pet
 the more the merrier
 the more things change, the more they stay the same
 the more you know, the higher you go
+them that has gets
 them that has, gets
 them that has, gets more
-them that has gets
+them what has gets
 them what has, gets
 them what has, gets more
-them what has gets
 the nail that sticks out gets hammered down
 the nut does not fall far from the tree
 the odds are good, but the goods are odd
@@ -1067,6 +1120,7 @@ there are many ways to skin a cat
 there are more horses' asses than horses
 there are no atheists in foxholes
 there are none so blind as those who will not see
+there are none so deaf as those who will not hear
 there are plenty more fish in the sea
 there are plenty of fish in the sea
 there are two sides to every question
@@ -1075,11 +1129,13 @@ there but for the grace of God go I
 there is a lid for every pot
 there is an exception to every rule
 there is a place and time for everything
+there is a time and a place for everything
 there is a time and place for everything
 there is no honor among thieves
 there is no such thing as bad press
 there is no such thing as bad publicity
 there is no such thing as bad weather, only bad clothing
+there is nothing more permanent than a temporary solution
 there is nothing new under the sun
 there is reason in the roasting of eggs
 there is safety in numbers
@@ -1115,20 +1171,24 @@ there's no time like the present
 there's no use crying over spilt milk
 there's nowt so queer as folk
 the revolution will not be televised
+the rich get richer
 the road to hell is paved with good intentions
+the road to Hell is paved with good intentions
 the screwing you get isn't worth the screwing you get
 the screwing you get isn't worth the screwing you're going to get
 the screwing you get isn't worth the screwing you take
+the shoemaker always wears the worst shoes
 the shoemaker's children go barefoot
 the sky is the limit
 the sky's the limit
 the spirit is willing but the flesh is weak
 the squeaky wheel gets the grease
 the squeaky wheel gets the oil
-the strong do what they can, the weak suffer what they must
 the strong do what they can and the weak suffer what they must
+the strong do what they can, the weak suffer what they must
 the tongue wounds more than a lance
 the truth is in the wine
+the victor gets the spoils
 the voice of the people, the voice of God
 the way to a man's heart is through his stomach
 the wheel turns
@@ -1138,21 +1198,22 @@ the winner takes it all
 the wolf may lose his teeth but never his nature
 the world is one's lobster
 the world is someone's oyster
+they hate us 'cause they ain't us
 they'll do it every time
 third time pays for all
 third time's a charm
 third time's the charm
 this too shall pass
 this too shall pass away
-those that have, get
-those that have, get more
 those that have get
+those that have, get
 those that have get more
+those that have, get more
 those who can't do, teach
-those who have, get
-those who have, get more
 those who have get
+those who have, get
 those who have get more
+those who have, get more
 those who live in glass houses should not throw stones
 those who live in glass houses shouldn't throw stones
 those who say it cannot be done should not interrupt those doing it
@@ -1160,8 +1221,8 @@ those who will not when they may, when they will they shall have nay
 three strikes and you're out
 three times a charm
 throw dirt enough, and some will stick
-throw enough mud at the wall, some of it will stick
 throw enough mud at the wall and some of it will stick
+throw enough mud at the wall, some of it will stick
 tide nor time tarrieth no man
 time and tide
 time and tide stay for no man
@@ -1211,9 +1272,9 @@ truth will out
 turnabout is fair play
 two can play that game
 two heads are better than one
+two's company and three is none
 two's company, three's a crowd
 two's company, three's trumpery
-two's company and three is none
 two wrongs don't make a right
 two wrongs make a right
 underpromise and overdeliver
@@ -1234,6 +1295,7 @@ water finds its level
 water finds its own level
 water seeks its level
 water seeks its own level
+we are where we are
 well begun is half done
 what comes around goes around
 what doesn't kill you makes you stronger
@@ -1262,6 +1324,7 @@ when in Rome
 when in Rome, do as the Romans
 when in Rome, do as the Romans do
 when in Rome, do like the Romans do
+when I see a bird that walks like a duck and swims like a duck and quacks like a duck, I call that bird a duck
 when it rains, it pours
 when life gives you lemons, make lemonade
 when one door closes, another door opens
@@ -1280,8 +1343,8 @@ when you hear hoofbeats, think of horses, not zebras
 when you mess with the bull, you get the horns
 when you're up to your neck in alligators, it's hard to remember that your initial objective was to drain the swamp
 where there is a will
-where there is a will, there is a way
 where there is a will there is a way
+where there is a will, there is a way
 where there's a will there's a way
 where there's muck there's brass
 where there's no sense there's no feeling
@@ -1313,6 +1376,8 @@ you attract more flies with honey than vinegar
 you buy cheap, you get cheap
 you can catch more flies with honey than vinegar
 you can catch more flies with honey than with vinegar
+you can lead a horse to water, but you can't make her drink
+you can lead a horse to water, but you can't make him drink
 you can lead a horse to water, but you can't make it drink
 you can lead horses to water, but you can't make them drink
 you cannot break a stick in a bundle
@@ -1351,6 +1416,7 @@ you can't step in the same river twice
 you can't take it with you
 you can't teach an old dog new tricks
 you can't tell a book by its cover
+you can't turn a hoe into a housewife
 you can't unring a bell
 you can't win them all
 you catch more flies with honey than vinegar

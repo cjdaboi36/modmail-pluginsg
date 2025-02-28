@@ -7,6 +7,8 @@ achluophobia
 achondroplasiaphobia
 acousticophobia
 acrophobia
+addictophobia
+adverbophobia
 aerophobia
 Afrophobia
 agliophobia
@@ -58,6 +60,8 @@ astrophobia
 ataxophobia
 atelophobia
 atheophobia
+atomophobia
+atomphobia
 atychiphobia
 audiophobia
 aulophobia
@@ -103,15 +107,17 @@ catoptrophobia
 Celtophobia
 centrophobia
 chaetophobia
+chelonaphobia
 chemophobia
 cherophobia
 Chinaphobia
 chionophobia
 chlorophobia
+chorophobia
 chrematophobia
 Christianophobia
-Christophobia
 chrometophobia
+chromophobia
 chronomentrophobia
 chrysophobia
 cibophobia
@@ -136,8 +142,8 @@ coronaphobia
 corticophobia
 cosmophobia
 coulrophobia
+cremnophobia
 cryophobia
-cryptophobia
 cyanophobia
 cyberphobia
 Cymrophobia
@@ -151,6 +157,7 @@ demophobia
 dendrophobia
 dentophobia
 dermatopathophobia
+dextrophobia
 didaskaleinophobia
 dikastophobia
 dipsophobia
@@ -196,7 +203,7 @@ femmephobia
 Francophobia
 friggatriskaidekaphobia
 frigophobia
-fungophobia
+fructophobia
 galeophobia
 Gallophobia
 gametophobia
@@ -207,7 +214,7 @@ geliophobia
 gelotophobia
 genderphobia
 genophobia
-Georgianophobia
+Georgiaphobia
 Georgiophobia
 gephyrophobia
 gerascophobia
@@ -235,7 +242,6 @@ hedonophobia
 heliophobia
 Hellenophobia
 helminthophobia
-hematophobia
 hemophobia
 heresyphobia
 herpetophobia
@@ -281,6 +287,7 @@ Israelophobia
 Italophobia
 ithyphallophobia
 Japanophobia
+Judaeophobia
 Judeophobia
 juvenophobia
 kainotophobia
@@ -309,6 +316,7 @@ logizomechanophobia
 logophobe
 logophobia
 Lusophobia
+lutraphobia
 lycophobia
 lygophobia
 lyssophobia
@@ -387,7 +395,6 @@ ouranophobia
 Pakistanphobia
 panophobia
 panphobia
-pantaphobia
 pantophobia
 papaphobia
 papyrophobia
@@ -423,6 +430,7 @@ pomophobia
 ponophobia
 porcophobia
 pornophobia
+porphyrophobia
 posthephobia
 potamophobia
 pozphobia
@@ -443,10 +451,12 @@ rhypophobia
 rhytiphobia
 robophobia
 rodentophobia
+Romanophobia
 Romaphobia
 rupophobia
 Russiaphobia
 Russophobia
+samhainophobia
 Santaphobia
 sarmassophobia
 Satanophobia
@@ -476,6 +486,7 @@ Slavophobia
 snakephobia
 sociophobia
 Somaliphobia
+Somalophobia
 somatophobia
 somniphobia
 sonophobia
@@ -485,6 +496,7 @@ speluncaphobia
 spermatophobia
 spheksophobia
 spiderphobia
+stenophobia
 steroidphobia
 submechanophobia
 substratophobia
@@ -500,6 +512,7 @@ teratophobia
 tetraphobia
 Teutonophobia
 Teutophobia
+thaasophobia
 thanatophobia
 theatrophobia
 theophobia

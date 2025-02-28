@@ -1,5 +1,7 @@
 # https://www.prydwen.gg/page-data/star-rail/characters/page-data.json
 Acheron
+Aglaea
+Anaxa
 Argenti
 Arlan
 Asta
@@ -9,6 +11,7 @@ Black Swan
 Blade
 Boothill
 Bronya
+Castorice
 Clara
 Dan Heng
 Dan Heng • Imbibitor Lunae
@@ -29,15 +32,19 @@ Jiaoqiu
 Jing Yuan
 Jingliu
 Kafka
+Lingsha
 Luka
 Luocha
 Lynx
 March 7th
-March 7th • Swordmaster
+March 7th • The Hunt
 Misha
+Moze
+Mydei
 Natasha
 Pela
 Qingque
+Rappa
 Robin
 Ruan Mei
 Sampo
@@ -45,12 +52,17 @@ Seele
 Serval
 Silver Wolf
 Sparkle
+Sunday
 Sushang
+The Herta
 Tingyun
+Tingyun • Fugue
 Topaz & Numby
-Trailblazer (Fire)
-Trailblazer (Imaginary)
-Trailblazer (Physical)
+Trailblazer • Destruction
+Trailblazer • Harmony
+Trailblazer • Preservation
+Trailblazer • Remembrance
+Tribbie
 Welt
 Xueyi
 Yanqing
