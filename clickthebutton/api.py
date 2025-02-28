@@ -12,6 +12,6 @@ async def request_oeis() -> Tuple[str, str]:
             params={"fromjavascript": 1, "q": "", "random": random.random()},
         ) as resp:
             text = await resp.text()
-            sequence = re.search(r"(?<=<tt>).*(?=</tt>)", text).group()
+            sequence = re.search(r"(?<=<div class=seqdata>).*(?=</div>)", text).group()
             oeis_id = re.search(r'(?<=href="/).*(?=">)', text).group()
     return sequence, oeis_id
