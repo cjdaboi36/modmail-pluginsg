@@ -101,7 +101,7 @@ class PersistentView(BaseView):
         if not isinstance(interaction.channel, discord.TextChannel):
             return
         message = await send_silent(
-            content=f"{reaction} <@{user_id}> ({format_deltatime(self.cog.clickers[interaction.user.id] - (interaction.message.edited_at if interaction.message.edited_at else interaction.message.created_at)}){fought} {random_got_a_click()}\n"
+            content=f"{reaction} <@{user_id}> ({format_deltatime(self.cog.clickers[interaction.user.id] - (interaction.message.edited_at if interaction.message.edited_at else interaction.message.created_at))}){fought} {random_got_a_click()}\n"
             f"You are now at {points} clicks and ranked #{rank} out of {len(self.cog.leaderboard)} players.{streak}",
             channel=interaction.channel,
             silent=cooldown > 5,
