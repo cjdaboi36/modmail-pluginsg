@@ -1,39 +1,28 @@
 # https://api.brawlapi.com/v1/maps
-Snake Prairie
 Shooting Star
 Hard Rock Mine
 Crystal Arcade
 Deathcap Trap
 Gem Fort
 Undermine
-Skull Creek
-Rockwall Brawl
-Feast Or Famine
 Kaboom Canyon
 Safe Zone
 Hideout
 Backyard Bowl
 Triple Dribble
 Pinhole Punt
-Acid Lakes
-Cavern Churn
-Double Trouble
-Island Invasion
 Sneaky Fields
 Super Beach
 Hot Potato
-Canal Grande
+Bridge Too Far
 Layer Cake
-Dark Passage
+Dry Season
 Double Swoosh
 Pinball Dreams
-Minecart Madness
-Flying Fantasies
 Center Stage
+Pit Stop
 Beach Ball
 Sunny Soccer
-Safety Center
-Penalty Kick
 Open Business
 Parallel Plays
 No Excuses
@@ -42,46 +31,225 @@ Dueling Beetles
 Rustic Arcade
 Goldarm Gulch
 Belles Rock
-Dried Up River
+Tiger Leap
+Block Party
+Power Alley
+Strong Side
+Pancake
+Jungle Ball
+Floater
+Ball Hog
+Reversal
+Pocket Pass
+Turnover
+Alley Oop
+Slam Dunk
+Triple-Double
+Deep End
+Flaring Phoenix
 Flaring Phoenix
 No Surrender
 Shrouding Serpent
 Warriors Way
 Monkey Maze
-Infinite Doom
-Slayers Paradise
-Quad Damage
 Open Space
+Flowing Springs
+Open Zone
+New Perspective
 Out In The Open
-Petticoat Duel
-Layer Bake
-Last Stop
-Freezing Ripples
-Great Waves
-Cool Shapes
+Dont Turn Around
+Side By Side
+Healthy Middle Ground
 Slippery Road
 Icy Ice Park
 Frosty Tracks
-The Great Open
-Marksmans Paradise
 New Horizons
-Suspenders
-Riverbank Crossing
 Four Levels
-Spice Production
-Zen Garden
-Watersport
-Noisy Neighbors
-Forest Clearing
-The Cooler Hard Rock
+Skull Creek
+Paperback Pond
+Ring O Brawlin
+Foursquare Fortress
+Broiler Room
+Hoop Boot Hill
+Kooky Gates
+Afterpiece Arena
+Divine Descent
+Hellish Harvest
+Final Frontier
+Infernal Invasion
+Celestial Crusade
+Abyssal Assault
+Radiant Rampage
+Underworld Uprising
+Super Center
+Slippery Slap
+Bouncy Bowl
+Below Zero
+Cool Box
+Starr Garden
 H For...
-Two Rivers
-Second Try
-Trickey
-Safe(r) Zone
-The Great Lake
-Deep Forest
-Tiny Islands
-Temple Of Vroom
-Overgrown Ruins
 Gg 2.0
+Wild Greens
+Hidden In Plain Sight
+Reverse Crossing
+Skipyard
+Middle Management
+Treasure Marks The Spot
+Ancient Treasure
+Excellent Excavations
+Can You Dig It
+Stockpile Stadium
+Big Battle Basin
+Unhappy Arena
+Brawl Starrgate
+Snowcone Square
+Fishing Bed
+Priceless Cactus
+Rooftop Runners
+Lilygear Lake
+Local Restaurants
+Plain Text
+Brace For Impact
+Skull Creek
+Skull Creek
+Rockwall Brawl
+Rockwall Brawl
+Feast Or Famine
+Feast Or Famine
+Cavern Churn
+Cavern Churn
+Acid Lakes
+Acid Lakes
+Flying Fantasies
+Flying Fantasies
+Double Trouble
+Double Trouble
+Safety Center
+Safety Center
+Siberian Stand Off
+Mirages Of Madness
+Survival Of The Meanest
+Arctic Ambush
+Treasure Island
+Waveform
+Waveform
+Core Of Orbit
+Core Of Orbit
+Lilypond Grove
+Lilypond Grove
+Kaiju Lake
+Arena Of Glory
+Mirage Arena
+Crystal Eye Castle
+Crystal Eye Castle
+Seeker
+Seeker
+Double Decker
+Streets With No Name
+Grass Knot
+Spiraling Out
+Abracadabra
+In The Liminal
+Subway Turfers
+On A Roll
+Storage Sector
+Soy Sauce Stains
+Moonbark Meadow
+Case Of The Mondays
+Jump To Conclusions
+Rebound Ring
+Hug Or Hurl
+Massive Meltdown
+Frostbite Rink
+Thin Walls
+Paper Jam
+Side Hustle
+Squish Court
+Wispwillow Ward
+Cold Snap
+Toot Town
+Insane Streamer
+Pocket Pleasures
+Cobblestone Swamp
+Public Transport
+Brawlerverse
+The Emptiness Machine
+Hee Hee
+Island Of Finality
+Whisper Vale
+Extreme Nonchalance
+Sidetrack
+Match 1123581321
+Twentyfive To Two
+Time Flies
+Playmaker
+Think Ahead
+Call Of The Water
+Coin Flip
+Search And Destroy
+Zip Zap Zoom
+Corner Cave
+Knockout Grounds
+The Smackdome
+Starrburst
+Million Dollars
+Metro Mayhem
+Backtrack Attack
+Loopy Line
+Trainbow Road
+Choo Choo Showdown
+Insert Victory
+Invaded Space
+1-2-3 Play
+Prize Pushing
+Crazy For Credits
+T-Rail Rush
+Dodge Or Die
+Truth
+Twisting Vines
+Atlas
+Afterparty
+Just Another Race To Anywhere
+Back Shuffle
+Flute Chutes
+Grab The Moment
+Party For You
+A Ballad About Minced Cutlets
+The Great Mighty Lou
+All Things Wicked
+Photic Doom
+Serpentshrine Island
+Crescendo
+Journey Of A Thousand Steps
+Catacombs
+Deathmatch
+Pound Of Mass
+Wonderland
+Truth
+Twisting Vines
+Slay Bay
+Overpower Outpost
+Nippy Narrows
+Spirit Frank
+Demogorgon
+Vecna
+Kroket
+Lotus
+Gated Community
+Makeshift Scaffolding
+Railroad Robbery
+Zone Splitting
+Ticket To Die
+Chivalry
+Polar Payoff
+Mine All Mine
+Treasure Pressure
+Kroket
+Lotus
+Gated Community
+Cold Cash
+Permafrost Bayou
+Kroket
+Lotus
+Gated Community
+Makeshift Scaffolding

@@ -1,10 +1,10 @@
 import re
 
 import requests
-from core.utils import open_data_file
+from core.utils import HEADERS, open_data_file
 
 url = "https://en.wikipedia.org/wiki/Wikipedia:Shortcut_index?action=raw"
-r = requests.get(url)
+r = requests.get(url, headers=HEADERS)
 
 with open_data_file("wikipedia_guidelines") as f:
     f.write(f"# {url}\n")

@@ -900,6 +900,7 @@
 [Psychic Noise](<https://bulbapedia.bulbagarden.net/wiki/Psychic_Noise_(move)>)
 [Upper Hand](<https://bulbapedia.bulbagarden.net/wiki/Upper_Hand_(move)>)
 [Malignant Chain](<https://bulbapedia.bulbagarden.net/wiki/Malignant_Chain_(move)>)
+[Nihil Light](<https://bulbapedia.bulbagarden.net/wiki/Nihil_Light_(move)>)
 [G-Max Wildfire](<https://bulbapedia.bulbagarden.net/wiki/G-Max_Wildfire_(move)>)
 [G-Max Befuddle](<https://bulbapedia.bulbagarden.net/wiki/G-Max_Befuddle_(move)>)
 [G-Max Volt Crash](<https://bulbapedia.bulbagarden.net/wiki/G-Max_Volt_Crash_(move)>)

@@ -1,6 +1,5 @@
 import requests
-
-from core.utils import open_data_file
+from core.utils import HEADERS, open_data_file
 
 url = (
     "https://en.wiktionary.org/w/api.php?action=query&cmlimit=500&cmprop=title&cmtitle=Category"
@@ -11,9 +10,9 @@ cmcontinue = None
 members = []
 while True:
     if cmcontinue:
-        r = requests.get(url + "&cmcontinue=" + cmcontinue)
+        r = requests.get(url + "&cmcontinue=" + cmcontinue, headers=HEADERS)
     else:
-        r = requests.get(url)
+        r = requests.get(url, headers=HEADERS)
     data = r.json()
     for member in data["query"]["categorymembers"]:
         members.append(member["title"])

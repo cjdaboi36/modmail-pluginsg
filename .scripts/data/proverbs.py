@@ -1,6 +1,5 @@
 import requests
-
-from core.utils import open_data_file, contains_swear
+from core.utils import HEADERS, contains_swear, open_data_file
 
 url = "https://en.wiktionary.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:English_proverbs&cmlimit=500&format=json"
 
@@ -8,9 +7,9 @@ cmcontinue = None
 members = []
 while True:
     if cmcontinue:
-        r = requests.get(url + "&cmcontinue=" + cmcontinue)
+        r = requests.get(url + "&cmcontinue=" + cmcontinue, headers=HEADERS)
     else:
-        r = requests.get(url)
+        r = requests.get(url, headers=HEADERS)
     data = r.json()
     for member in data["query"]["categorymembers"]:
         members.append(member["title"])

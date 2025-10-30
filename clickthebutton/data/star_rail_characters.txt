@@ -2,6 +2,7 @@
 Acheron
 Aglaea
 Anaxa
+Archer
 Argenti
 Arlan
 Asta
@@ -12,9 +13,13 @@ Blade
 Boothill
 Bronya
 Castorice
+Cerydra
+Cipher
 Clara
+Cyrene
 Dan Heng
 Dan Heng • Imbibitor Lunae
+Dan Heng • Permansor Terrae
 Dr. Ratio
 Feixiao
 Firefly
@@ -27,6 +32,8 @@ Herta
 Himeko
 Hook
 Huohuo
+Hyacine
+Hysilens
 Jade
 Jiaoqiu
 Jing Yuan
@@ -37,16 +44,19 @@ Luka
 Luocha
 Lynx
 March 7th
+March 7th • Evernight
 March 7th • The Hunt
 Misha
 Moze
 Mydei
 Natasha
 Pela
+Phainon
 Qingque
 Rappa
 Robin
 Ruan Mei
+Saber
 Sampo
 Seele
 Serval
@@ -54,6 +64,7 @@ Silver Wolf
 Sparkle
 Sunday
 Sushang
+The Dahlia
 The Herta
 Tingyun
 Tingyun • Fugue

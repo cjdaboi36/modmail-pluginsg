@@ -1,4 +1,13 @@
 # https://api.brawlapi.com/v1/brawlers
+Gigi
+Ziggy
+Mina
+Trunk
+Alli
+Kaze
+Jae-Yong
+Finx
+Lumi
 Ollie
 Meeple
 Buzz Lightyear

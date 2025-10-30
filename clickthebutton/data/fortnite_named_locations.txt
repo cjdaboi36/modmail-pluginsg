@@ -1,6 +1,6 @@
 # https://fortnite.fandom.com/wiki/Named_Locations
 Brutal Boxcars
-Burd
+BURD
 Canyon Crossing
 Demon's Dojo
 Flooded Frogs
@@ -9,6 +9,7 @@ Hopeful Heights
 Lost Lake
 Magic Mosses
 Masked Meadows
+Kappa Kappa Factory
 Nightshift Forest
 Pumped Power
 Seaport City
@@ -17,19 +18,44 @@ Shogun's Solitude
 Twinkle Terrace
 Warrior's Watch
 Whiffy Wharf
-Kappa Kappa Factory
 Shattered Span
-Classy Courts
-Fencing Fields
+Crime City
+Lonewolf Lair
+Outlaw Oasis
+Shiny Shafts
+First Order Base
+Outpost Enclave
+Resistance Base
+Vader Samurai's Solitude
+Demon's Domain
+Supernova Academy
+Utopia City
+Demon's Debris
+O.X.R. HQ
+Ranger's Ruin
+Swarmy Stash
+The Hive
+Dystopia City
+Bugswatter Beach
+Dreamy Domain
+Harmony Hills
+Ranger's Rest
+Creepy Camps
+Freaky Fields
+Gourdy Gate
+Pumpkin Pass
+Viney Shafts
 Grand Glacier
-Hazy Hillside
-Lavish Lair
-Pleasant Piazza
 Rebel's Roost
 Reckless Railways
+Classy Courts
+Lavish Lair
+Pleasant Piazza
+Fencing Fields
+Snooty Steppes
+Hazy Hillside
 Ritzy Riviera
 Ruined Reels
-Snooty Steppes
 Brawler's Battleground
 Mount Olympus
 Grim Gate
@@ -132,10 +158,11 @@ Colossal Coliseum
 Hunter's Haven
 Stealthy Stronghold
 Colossal Crops
-Believer Beach
 Boney Burbs
 The Spire
 Holly Hatchery
+Corny Complex
+Believer Beach
 Sludgy Swamp
 Corny Crops
 The Convergence
@@ -181,24 +208,3 @@ Tilted Town
 Moisty Palms
 Gotham City
 Starry Suburbs
-The Plaza
-Main Stage
-The Big Screen
-Dusty Docks
-Lazy Laps
-Lil'Loot Lake
-Lone Lodge
-Pleasant Park
-Retail Row
-Snobby Shoals
-Sandy Sheets
-Tilted Towers
-Adobe Abodes
-Fossil Fields
-Guaco Town
-Lizard Links
-Paradise Palms
-Shady Springs
-Snobby Sands
-Sunburnt Shafts
-Twisted Trailers

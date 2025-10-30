@@ -1,4 +1,5 @@
-# https://raw.githubusercontent.com/manami-project/anime-offline-database/master/anime-offline-database-minified.json
+# https://github.com/manami-project/anime-offline-database/releases/latest/download/anime-offline-database-minified.json
+191718 "Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai
 158287 #Compass 2.0: Sentou Setsuri Kaiseki System
 873 .hack//Roots
 48 .hack//Sign
@@ -24,6 +25,7 @@
 16696 2020 Nyeon Ujuui Wonder Kiddy
 5628 21 Emon
 99807 22/7
+192261 29-sai Dokushin Chuuken Boukensha no Nichijou
 151765 3 Choume no Tama: Uchi no Tama Shirimasenka?
 21366 3-gatsu no Lion
 98478 3-gatsu no Lion 2nd Season
@@ -49,6 +51,7 @@
 9776 A-Channel
 9433 A-jang.com
 180812 A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.
+195210 A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. 2nd Season
 1349 A.D. Police (TV)
 111145 A3! Season Autumn & Winter
 107651 A3! Season Spring & Summer
@@ -230,8 +233,10 @@
 116408 Anoyo no Subete wa, Obake-gumi!
 20755 Ansatsu Kyoushitsu
 21170 Ansatsu Kyoushitsu 2nd Season
+186794 Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
 7152 Anyamal Tantei Kiruminzoo
 134732 Ao Ashi
+191788 Ao Ashi 2nd Season
 20596 Ao Haru Ride
 9919 Ao no Exorcist
 21861 Ao no Exorcist: Kyoto Fujouou-hen
@@ -239,8 +244,10 @@
 185880 Ao no Exorcist: Yosuga-hen
 176311 Ao no Exorcist: Yuki no Hate-hen
 170942 Ao no Hako
+189123 Ao no Hako 2nd Season
 21319 Ao no Kanata no Four Rhythm
 169258 Ao no Miburo
+189258 Ao no Miburo: Serizawa Ansatsu-hen
 147369 Ao no Orchestra
 170018 Ao no Orchestra 2nd Season
 166059 Ao no Orchestra 5-bu de Tanoshii Kurashikku
@@ -281,7 +288,7 @@
 100668 Arifureta Shokugyou de Sekai Saikyou
 112323 Arifureta Shokugyou de Sekai Saikyou 2nd Season
 154473 Arifureta Shokugyou de Sekai Saikyou Season 3
-140660 Arknights: Reimei Zensou
+140660 Arknights: Prelude to Dawn
 177175 Arknights: Rise from Ember
 158895 Arknights: Touin Kiro
 183984 Arne no Jikenbo
@@ -293,6 +300,7 @@
 21424 Arslan Senki (TV): Fuujin Ranbu
 110547 Arte
 152207 Aru Asa Dummy Head Mic ni Natteita Ore-kun no Jinsei
+178701 Aru Majo ga Shinu Made
 121718 Asa da yo! Kaishain
 231 Asagiri no Miko
 6629 Asari-chan
@@ -328,6 +336,7 @@
 1550 Attack No.1
 3081 Attacker You!
 56 Avenger
+177501 Awajima Hyakkei
 126271 Awajishima no Shichifukujin
 21727 Aware! Meisaku-kun
 12951 AWOL
@@ -341,7 +350,7 @@
 108752 Azumi Mamma★Mia
 104159 Azur Lane
 114473 Azur Lane: Bisoku Zenshin!
-169080 Azur Lane: Bisoku Zenshin! Season 2
+169080 Azur Lane: Bisoku Zenshin! Ni!!
 108761 B Rappers Street
 286 B'T X
 7817 B-gata H-kei
@@ -403,14 +412,15 @@
 125839 Bakuten!!
 3271 Bakutou Sengen Daigunder
 102927 Bakutsuri Bar Hunter
-104509 Balala Xiao Mo Xian Zhi: Feiyue Cai Ling Bao
-104468 Balala Xiao Mo Xian Zhi: Meng Huan Xuan Lu
 99712 Balala Xiao Mo Xian: Caihong Xin Shi
+104509 Balala Xiao Mo Xian: Feiyue Cai Ling Bao
 104510 Balala Xiao Mo Xian: Feiyue Cai Ling Bao 2nd Season
+104468 Balala Xiao Mo Xian: Meng Huan Xuan Lu
 108814 Balala Xiao Mo Xian: Mofa Hai Ying Bao
 136546 Balala Xiao Mo Xian: Mofa Hai Ying Bao 2nd Season
 151780 Balala Xiao Mo Xian: Mofa Xing Yuan Bao
 104469 Balala Xiao Mo Xian: Qiji Wubu
+184279 Ballpark de Tsukamaete!
 98005 Ballroom e Youkoso
 2822 Bamboo Bears
 2986 Bamboo Blade
@@ -478,7 +488,6 @@
 101115 Beyblade Burst Chouzetsu
 108853 Beyblade Burst Gachi
 98289 Beyblade Burst God
-166062 Beyblade Burst Quad Strike
 165159 Beyblade X
 138985 BeyWarriors: BeyRaiderz
 136668 Beywheelz
@@ -489,6 +498,7 @@
 3909 Bikkuriman
 5478 Bikkuriman 2000
 163364 Bikkurimen
+188138 Binan Koukou Chikyuu Bouei-bu Haikara!
 101046 Binan Koukou Chikyuu Bouei-bu Happy Kiss!
 20877 Binan Koukou Chikyuu Bouei-bu LOVE!
 21293 Binan Koukou Chikyuu Bouei-bu LOVE! LOVE!
@@ -518,6 +528,7 @@
 2214 Black Jack 21
 889 Black Lagoon
 1519 Black Lagoon: The Second Barrage
+187538 Black Torch
 11285 Black★Rock Shooter (TV)
 139303 Black★★Rock Shooter: Dawn Fall
 6920 Blade
@@ -549,6 +560,7 @@
 110354 BNA
 1050 Bobobo-bo Bo-bobo
 130003 Bocchi the Rock!
+186712 Bocchi the Rock! 2nd Season
 21234 Boku dake ga Inai Machi
 21459 Boku no Hero Academia
 21856 Boku no Hero Academia 2nd Season
@@ -635,18 +647,20 @@
 370 Burn Up Excess
 693 Burn Up Scramble
 3389 Bus Gamer
+184575 Busamen Gachi Fighter
 110124 Business Fish
 1536 Busou Renkin
 14237 Busou Shinki
 21851 Busou Shoujo Machiavellianism
+156395 Busu ni Hanataba wo.
 142599 Buta no Liver wa Kanetsu Shiro
 100083 Butlers: Chitose Momotose Monogatari
 406 Buzzer Beater
 2684 Buzzer Beater 2nd Season
 157371 Bye Bye, Earth
+181078 Bye Bye, Earth 2nd Season
 146475 C Danchi
 10163 C: The Money of Soul and Possibility Control
-186200 Caihong Huwei Dui
 100569 Caligula
 2827 Calimero
 12293 Campione! Matsurowanu Kamigami to Kamigoroshi no Maou
@@ -678,6 +692,7 @@
 115656 Cardfight!! Vanguard Gaiden: If
 13145 Cardfight!! Vanguard: Asia Circuit-hen
 164204 Cardfight!! Vanguard: Divinez
+191994 Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen
 182920 Cardfight!! Vanguard: Divinez Deluxe-hen
 165681 Cardfight!! Vanguard: Divinez Season 2
 20564 Cardfight!! Vanguard: Legion Mate-hen
@@ -703,6 +718,7 @@
 127230 Chainsaw Man
 185514 Champignon no Majo
 2495 Chance Triangle Session
+186524 Chanto Suenai Kyuuketsuki-chan
 103426 Chao Zhi Neng Zu Qiu
 135278 Chao Zhi Neng Zu Qiu 2: Shijie Dasai Pian
 21055 Chaos Dragon: Sekiryuu Seneki
@@ -716,6 +732,7 @@
 21713 Cheer Danshi!!
 9868 Chengyu Donghua Lang
 17893 Cheonbangjichuk Hani
+163793 Cheongchun Blossom
 103724 Chi Jian Chuanqi
 3841 Chi's Sweet Home
 6024 Chi's Sweet Home: Atarashii Ouchi
@@ -724,6 +741,7 @@
 151514 Chi. Chikyuu no Undou ni Tsuite
 162312 Chibi Godzilla no Gyakushuu
 175869 Chibi Godzilla no Gyakushuu 2nd Season
+193883 Chibi Godzilla no Gyakushuu 3rd Season
 951 Chibi Maruko-chan
 6149 Chibi Maruko-chan (1995)
 8501 Chibikko Kaijuu Yadamon
@@ -744,6 +762,7 @@
 15749 Chiisana Ojisan
 2836 Chiisana Viking Vickie
 16303 Chikkun Takkun
+188131 Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku
 1962 Chikyuu Bouei Kazoku
 1312 Chikyuu Bouei Kigyou Dai-Guard
 812 Chikyuu Shoujo Arjuna
@@ -756,6 +775,7 @@
 5202 Chirorin Mura Monogatari
 97745 Chiruran: Nibun no Ichi
 14277 Chitose Get You!!
+180082 Chitose-kun wa Ramune Bin no Naka
 137908 Chiyu Mahou no Machigatta Tsukaikata
 179981 Chiyu Mahou no Machigatta Tsukaikata 2nd Season
 59 Chobits
@@ -766,8 +786,13 @@
 1219 Chocotto Sister
 104106 Choegang Habche: Mix Master
 185967 Choegang Top Plate
+188830 Choeganggonglyong Miniforce
+188828 Choeganggyeongchal Miniforce
+188813 Choegangjeonsa Miniteukgongdae
+188814 Choegangjeonsa Miniteukgongdae (2015)
 17127 Chokkyuu Hyoudai Robot Anime: Straight Title
 180829 Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita
+189832 Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita Mini Anime Gekijou
 10319 Chou Dendou Robo Tetsujin 28-gou FX
 1069 Chou Denji Machine Voltes V
 1068 Chou Denji Robo Combattler V
@@ -823,9 +848,11 @@
 1473 City Hunter '91
 1471 City Hunter 2
 1472 City Hunter 3
+181841 City The Animation
 1844 Clamp Gakuen Tanteidan
 2167 Clannad
 4181 Clannad: After Story
+169580 Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta
 178462 Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.
 21250 ClassicaLoid
 98546 ClassicaLoid 2nd Season
@@ -957,6 +984,7 @@
 10177 DD Hokuto no Ken
 17705 DD Hokuto no Ken (2013)
 21232 DD Hokuto no Ken 2 Ichigo Aji+
+187901 Dead Account
 157198 Dead Mount Death Play
 162803 Dead Mount Death Play Part 2
 6880 Deadman Wonderland
@@ -1005,8 +1033,11 @@
 21046 Diabolik Lovers More,Blood
 18689 Diamond no Ace
 105749 Diamond no Ace: Act II
-177634 Diamond no Ace: Act II (Zoku-hen)
+177634 Diamond no Ace: Act II Second Season
 21085 Diamond no Ace: Second Season
+187510 Dianji Xiaozi
+193470 Dianji Xiaozi 2
+193471 Dianji Xiaozi 3
 17733 Dibetagurashi: Ahiru no Seikatsu
 21555 Dies Irae
 7750 DigiGirl Pop!: Strawberry & Pop Mix Flavor
@@ -1024,6 +1055,8 @@
 181868 Digital Tokoro-san
 21256 Dimension W
 130515 Dinosaur Biyori
+193468 Dinoster: Gonglyongsuhodae 2
+193467 Dinoster: Gongnyongsuhodae
 3499 Dinozaurs: The Series
 424 Dirty Pair
 97921 Dive!!
@@ -1083,6 +1116,7 @@
 2166 Doujin Work
 103874 Doukyonin wa Hiza, Tokidoki, Atama no Ue.
 175409 Douse, Koishite Shimaunda.
+189137 Douse, Koishite Shimaunda. Season 2
 21353 Doushitemo Eto ni Hairitai
 157171 Doushitemo Eto ni Hairitai 2
 2259 Dr. Rin ni Kiitemite!
@@ -1092,6 +1126,7 @@
 131518 Dr. Stone: New World
 162670 Dr. Stone: New World Part 2
 172019 Dr. Stone: Science Future
+189117 Dr. Stone: Science Future Part 2
 113936 Dr. Stone: Stone Wars
 223 Dragon Ball
 170083 Dragon Ball Daima
@@ -1196,6 +1231,7 @@
 4199 Entaku no Kishi Monogatari: Moero Arthur
 1250 Erementar Gerad
 790 Ergo Proxy
+183270 Eris no Seihai
 21685 Eromanga-sensei
 20506 Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi
 3023 Esper Mami
@@ -1203,6 +1239,7 @@
 146438 Eternal Boys
 20930 Etotama
 12471 Eureka Seven AO
+185584 Everyday Host
 100226 Evil or Live
 106503 Ex-Arm
 5883 Examurai Sengoku
@@ -1320,6 +1357,7 @@
 125 Futakoi
 126 Futakoi Alternative
 3808 Futari Daka
+185965 Futari Solo Camp
 17267 Futari wa Milky Holmes
 603 Futari wa Precure
 1929 Futari wa Precure: Max Heart
@@ -1328,7 +1366,8 @@
 344 Futatsu no Spica
 146233 Futoku no Guild
 112719 Futsal Boys!!!!!
-20611 Futsuu no Joshikousei ga [Locodol] Yattemita.
+188139 Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den
+20611 Futsuu no Joshikousei ga "Locodol" Yattemita.
 19067 Future Card Buddyfight
 98229 Future Card Buddyfight Battsu
 101385 Future Card Buddyfight Battsu: All-Star Fight
@@ -1351,6 +1390,7 @@
 4725 Ga-Rei: Zero
 5670 GA: Geijutsuka Art Design Class
 21878 Gabriel DropOut
+178025 Gachiakuta
 271 Gad Guard
 1845 Gaiking: Legend of Daiku-Maryu
 132474 Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
@@ -1360,6 +1400,7 @@
 179774 Gaki Deka
 13139 Gakkatsu!
 17147 Gakkatsu! 2nd Season
+193238 Gakkou de wa Oshiete Kurenai Taisetsu na Koto
 1281 Gakkou no Kaidan
 9345 Gakkou no Kowai Uwasa Shin: Hanako-san ga Kita!!
 6472 Gakkou no Kowai Uwasa: Hanako-san ga Kita!!
@@ -1385,6 +1426,7 @@
 364 Gallery Fake
 5267 Gamba no Bouken
 12243 Game Center Arashi
+180794 Game Center Shoujo to Ibunka Kouryuu
 97766 Gamers!
 126910 Gan Gan Ganko-chan
 129844 Gan Gan Ganko-chan 2nd Season
@@ -1392,6 +1434,7 @@
 3213 Ganbare Genki
 2885 Ganbare Goemon
 20199 Ganbare Gonbe
+187517 Ganbare! Choushuu-kun
 3053 Ganbare! Kickers
 20459 Ganbare! Lulu Lolo
 20864 Ganbare! Lulu Lolo 2nd Season
@@ -1407,6 +1450,7 @@
 384 Gantz
 395 Gantz 2nd Stage
 3519 Garakuta-doori no Stain
+187361 Garena Free Fire
 21277 Garo: Guren no Tsuki
 20753 Garo: Honoo no Kokuin
 99796 Garo: Vanishing Line
@@ -1418,6 +1462,7 @@
 18229 Gatchaman Crowds
 20487 Gatchaman Crowds Insight
 127 Gate Keepers
+195496 Gate Season 2: Jieitai Kanoumi nite, Kaku Tatakaeri
 20994 Gate: Jieitai Kanochi nite, Kaku Tatakaeri
 21364 Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2
 11809 gdgd Fairies
@@ -1503,6 +1548,7 @@
 1491 Ginga Tetsudou 999
 1490 Ginga Tetsudou Monogatari
 2717 Ginga Tetsudou Monogatari: Eien e no Bunkiten
+189069 Ginga Tokkyuu Milky☆Subway
 18411 Gingitsune
 1868 Giniro no Olynsis: Tokito
 832 Ginsoukikou Ordian
@@ -1536,6 +1582,7 @@
 20516 Go! Go! 575
 3776 Go! Go! Itsutsugo Land
 168001 Go! Go! Vehicle Zoo
+188661 Go! Go! Vehicle Zoo: Vehicle Star-hen
 21001 Go! Princess Precure
 138874 GO! Wrestler Gundan
 105049 GO-GO Tamagotchi!
@@ -1569,6 +1616,7 @@
 4039 Golgo 13 (TV)
 7867 Gon
 125271 Gon 2nd Season
+187215 Good Morning!!! Doronjo
 182060 Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru
 2494 Goshuushou-sama Ninomiya-kun
 8425 Gosick
@@ -1640,6 +1688,7 @@
 98479 Gurazeni
 102974 Gurazeni Season 2
 8195 Guruguru Town Hanamaru-kun
+196238 Gutchonpa Omoshiro Hanashi
 132346 Gwahakmasuldan
 10271 Gyakkyou Burai Kaiji: Hakairoku-hen
 3002 Gyakkyou Burai Kaiji: Ultimate Survivor
@@ -1650,6 +1699,7 @@
 386 H2
 3299 H2O: Footprints in the Sand
 3022 Haai Step Jun
+189733 Haai! Myakumyaku desu
 106319 Hachi-nan tte, Sore wa Nai deshou!
 104989 Hachigatsu no Cinderella Nine
 16 Hachimitsu to Clover
@@ -1680,6 +1730,7 @@
 263 Hajime no Ippo
 5258 Hajime no Ippo: New Challenger
 19647 Hajime no Ippo: Rising
+186756 Hajimemashita, Yamaneko-Iin
 97863 Hajimete no Gal
 3710 Hakaba Kitarou
 1465 Hakaima Sadamitsu
@@ -1801,6 +1852,7 @@
 19961 Heisei Tensai Bakabon
 145140 Helck
 169096 Heli-Tako Puu-chan
+185262 Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru
 132511 Hello Jadoo
 132513 Hello Jadoo 3
 9770 Hello Kitty no Stump Village
@@ -1821,6 +1873,7 @@
 11203 Hero Hero-kun
 2002 Heroic Age
 138459 Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto
+192800 Heroine? Seijo? Iie, All Works Maid desu (Hokori)!
 4334 Heroman
 15479 Hey Yo Yorang
 3434 Hey! Bumboo
@@ -1869,8 +1922,10 @@
 125869 Hikari no Ou
 162842 Hikari no Ou 2nd Season
 1082 Hikari to Mizu no Daphne
+177689 Hikaru ga Shinda Natsu
 135 Hikaru no Go
 159808 Hikikomari Kyuuketsuki no Monmon
+187062 Hikuidori: Ushuu Boro Tobi-gumi
 910 Himawari!
 1988 Himawari!!
 8206 Hime Chen! Otogi Chikku Idol Lilpri
@@ -1878,11 +1933,13 @@
 2037 Hime-chan no Ribbon
 20634 Himegoto
 182483 Himekishi wa Barbaroi no Yome
+186741 Himekishi-sama no Himo
 166522 Himesama "Goumon" no Jikan desu
 176370 Himesama "Goumon" no Jikan desu 2nd Season
 1884 Himesama Goyoujin
 360 Himiko-den
 171080 Himitsu no AiPri
+184470 Himitsu no AiPri: Ring-hen
 3285 Himitsu no Akko-chan
 3838 Himitsu no Akko-chan 2
 3839 Himitsu no Akko-chan 3
@@ -1935,6 +1992,7 @@
 2228 Honoo no Toukyuuji: Dodge Danpei
 10338 Honto ni Atta! Reibai Sensei
 108268 Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
+171110 Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo
 113693 Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season
 121176 Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
 20431 Hoozuki no Reitetsu
@@ -1986,6 +2044,7 @@
 101289 Hyakuren no Haou to Seiyaku no Valkyria
 155971 Hyakushou Kizoku
 171689 Hyakushou Kizoku 2nd Season
+185694 Hyakushou Kizoku 3rd Season
 9781 Hyouga Senshi Gaislugger
 9996 Hyouge Mono
 12189 Hyouka
@@ -1998,6 +2057,7 @@
 154041 I Love Me
 158643 I Love Me Part 2
 509 I My Me! Strawberry Eggs
+196356 Ibitte Konai Gibo to Gishi
 7088 Ichiban Ushiro no Daimaou
 248 Ichigo 100%
 9518 Ichigo Ichie: Kimi no Kotoba
@@ -2096,6 +2156,7 @@
 117448 Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω
 178433 Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
 183960 Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku
+183661 Isekai no Sata wa Shachiku Shidai
 146850 Isekai Nonbiri Nouka
 135806 Isekai Ojisan
 146234 Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita
@@ -2154,17 +2215,20 @@
 129175 Ji Jia Shou Shen: Baolie Feiche
 108463 Jibaku Shounen Hanako-kun
 170892 Jibaku Shounen Hanako-kun 2
+189326 Jibaku Shounen Hanako-kun 2 Part 2
 2330 Jibaku-kun
 153360 Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
 169440 Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season
 146554 Jifeng Jingshe
 2012 Jigoku Sensei Nube
+179678 Jigoku Sensei Nube (2025)
 228 Jigoku Shoujo
 1594 Jigoku Shoujo Futakomori
 3713 Jigoku Shoujo Mitsuganae
 98379 Jigoku Shoujo: Yoi no Togi
 128893 Jigokuraku
 166613 Jigokuraku 2nd Season
+191374 Jigu-ui Juin-eun Goyangi-da
 168138 Jiisan Baasan Wakagaeru
 157295 Jijou wo Shiranai Tenkousei ga Guigui Kuru.
 97939 Jikan no Shihaisha
@@ -2179,6 +2243,7 @@
 131857 Jin Guang Yu Jiu Jie: Mo Wuxia Feng
 131860 Jin Guang Yu Jiu Jie: Mo Xie Lu
 131884 Jin Guang Yu Jiu Jie: Xu Yao Ji
+187060 Jing Hua Yuan
 103000 Jingai-san no Yome
 121200 Jingju Mao Zhi Cheng Feng Polang
 121199 Jingju Mao Zhi Xinnian de Maoxian
@@ -2190,6 +2255,7 @@
 104559 Jinxiu Shenzhou: Xingshi Wangguo
 17291 Jinzou Konchuu Kabutoborg VxV
 598 Jinzou Ningen Kikaider The Animation
+192808 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.
 154391 Jitsu wa Ore, Saikyou deshita?
 21033 Jitsu wa Watashi wa
 21343 JK Meshi!
@@ -2257,6 +2323,7 @@
 6375 Kagaku Ninja-tai Gatchaman F
 6374 Kagaku Ninja-tai Gatchaman II
 174913 Kagaku x Bouken Survival!
+186736 Kagaku x Bouken Survival! 2nd Season
 590 Kage kara Mamoru!
 130298 Kage no Jitsuryokusha ni Naritakute!
 161964 Kage no Jitsuryokusha ni Naritakute! 2nd Season
@@ -2283,6 +2350,7 @@
 178754 Kaijuu 8-gou 2nd Season
 99888 Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2nd Season
 21200 Kaijuu Sakaba Kanpai!
+184289 Kaijuu Sekai Seifuku (TV)
 110089 Kaijuu Step Wandabada
 1021 Kaikan Phrase
 2704 Kaiketsu Jouki Tanteidan
@@ -2307,10 +2375,11 @@
 9627 Kakko Kawaii Sengen!
 10908 Kakko Kawaii Sengen! 2
 132052 Kakkou no Iinazuke
-179828 Kakkou no Iinazuke 2nd Season
+179828 Kakkou no Iinazuke Season 2
 16668 Kakumeiki Valvrave
 18295 Kakumeiki Valvrave 2nd Season
 100500 Kakuriyo no Yadomeshi
+177271 Kakuriyo no Yadomeshi Ni
 113311 Kakushigoto
 177509 Kakushite! Makina-san!!
 913 Kakutou Bijin Wulong
@@ -2335,6 +2404,7 @@
 172199 Kamierabi 2nd Season
 20542 Kamigami no Asobi
 117876 Kamigami no Ki
+187869 Kamiina Botan, Yoeru Sugata wa Yuri no Hana
 142 Kamikaze Kaitou Jeanne
 148048 Kaminaki Sekai no Kamisama Katsudou
 19993 Kaminari Boy Pikkari★bee
@@ -2351,6 +2421,7 @@
 158926 Kamonohashi Ron no Kindan Suiri
 172355 Kamonohashi Ron no Kindan Suiri 2nd Season
 5914 Kanamemo
+190704 Kanan-sama wa Akumade Choroi
 131477 Kanashiki Debu Neko-chan
 107663 Kanata no Astra
 183133 Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi
@@ -2368,12 +2439,14 @@
 113813 Kanojo, Okarishimasu
 124410 Kanojo, Okarishimasu 2nd Season
 154745 Kanojo, Okarishimasu 3rd Season
+179344 Kanojo, Okarishimasu 4th Season
 3503 Kanokon
 144 Kanon
 1530 Kanon (2006)
 183275 Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru
 20553 Kantai Collection: KanColle
 20688 Kantoku Fuyuki Todoki
+181444 Kaoru Hana wa Rin to Saku
 126315 Kaoru no Taisetsu na Mono
 1883 Kappa no Kaikata
 20123 Kappamaki
@@ -2385,6 +2458,7 @@
 8065 Karakuri Kengou Den Musashi Lord
 3935 Karakuri Kiden: Hiwou Senki
 2204 Karakuri Zoushi Ayatsuri Sakon
+183127 Karaoke Iko!
 5140 Karaoke Senshi Mike-tarou
 2243 Karasu Tengu Kabuto
 170503 Karasu wa Aruji wo Erabanai
@@ -2400,6 +2474,7 @@
 20857 Kasumin 2nd Season
 2738 Kasumin 3rd Season
 179955 Katainaka no Ossan, Kensei ni Naru
+194829 Katainaka no Ossan, Kensei ni Naru 2nd Season
 6594 Katanagatari
 1604 Katekyou Hitman Reborn!
 21742 Katsugeki/Touken Ranbu
@@ -2492,6 +2567,7 @@
 52 Kidou Tenshi Angelic Layer
 21802 Kiitarou Shounen no Youkai Enikki
 143598 Kijin Gentoushou
+179992 Kikaijikake no Marie
 163142 Kikansha no Mahou wa Tokubetsu desu
 172192 Kikansha no Mahou wa Tokubetsu desu 2nd Season
 2075 Kiko-chan Smile
@@ -2513,6 +2589,7 @@
 142329 Kimetsu no Yaiba: Yuukaku-hen
 3229 Kimi ga Aruji de Shitsuji ga Ore de
 147 Kimi ga Nozomu Eien
+187260 Kimi ga Shinu made Koi wo Shitai
 6045 Kimi ni Todoke
 9656 Kimi ni Todoke 2nd Season
 17741 Kimi no Iru Machi
@@ -2523,6 +2600,7 @@
 10460 Kimi to Boku.
 11739 Kimi to Boku. 2
 138383 Kimi to Fit Boxing
+185073 Kimi to Idol Precure♪
 186161 Kimi to Koete Koi ni Naru
 143653 Kimi wa Houkago Insomnia
 172190 Kimi wa Meido-sama.
@@ -2549,8 +2627,8 @@
 1707 Kinnikuman II Sei
 5967 Kinnikuman II Sei: Ultimate Muscle
 5968 Kinnikuman II Sei: Ultimate Muscle 2
-162796 Kinnikuman: Kanpeki Chоujin Shiso-hen
-181886 Kinnikuman: Kanpeki Chоujin Shiso-hen Season 2
+162796 Kinnikuman: Kanpeki Choujin Shiso-hen
+181886 Kinnikuman: Kanpeki Choujin Shiso-hen Season 2
 3281 Kinnikuman: Kinnikusei Oui Soudatsu-hen
 486 Kino no Tabi: The Beautiful World
 98448 Kino no Tabi: The Beautiful World - The Animated Series
@@ -2580,13 +2658,21 @@
 102385 Kitsune no Koe
 108629 Kitsutsuki Tanteidokoro
 4023 Kitty's Paradise
+186561 Kizetsu Yuusha to Ansatsu Hime
 21421 Kiznaiver
 185993 Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
+195209 Kizu darake Seijo yori Houfuku wo Komete
 156896 Kizuna no Allele
 166523 Kizuna no Allele Season 2
 148492 KJ File
 155291 KJ File 2nd Season
 163828 Kkoma Bus Tayo
+188055 Kkoma Bus Tayo 2
+188056 Kkoma Bus Tayo 3
+188058 Kkoma Bus Tayo 4
+188059 Kkoma Bus Tayo 5
+188062 Kkoma Bus Tayo 6
+188063 Kkoma Bus Tayo 7
 103705 Kkoma Sinseon Tao
 103704 Kkoma Sinseon Tao 2
 168560 Kkomimanyeo Lara
@@ -2661,6 +2747,7 @@
 154214 Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
 151252 Koori Zokusei Danshi to Cool na Douryou Joshi
 412 Kore ga Watashi no Goshujinsama
+188525 Kore Kaite Shine
 8841 Kore wa Zombie desu ka?
 10790 Kore wa Zombie desu ka? of the Dead
 127050 Koroshi Ai
@@ -2725,6 +2812,7 @@
 1660 Kurogane Communication
 3653 Kurogane no Linebarrels
 177552 Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai
+188892 Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai 2nd Season
 5079 Kurokami The Animation
 11771 Kuroko no Basket
 16894 Kuroko no Basket 2nd Season
@@ -2793,6 +2881,9 @@
 2542 Lady Georgie
 20784 Lady Jewelpet
 2227 Lady Lady!!
+189723 Lalala Lala-chan ★Uchuu ni Muchuu★
+189724 Lalala Lala-chan: Lala to Mainichi
+189722 Lalala Lala-chan: Patapata Daisensou
 114656 Lalalacoco
 670 Lamune
 9947 Lan Mao
@@ -2910,6 +3001,7 @@
 20809 Madan no Ou to Vanadis
 97986 Made in Abyss
 114745 Made in Abyss: Retsujitsu no Ougonkyou
+188076 Madeob Bus Tayo
 252 Madlax
 2818 Madou King Granzort
 168623 Madougushi Dahliya wa Utsumukanai
@@ -2944,6 +3036,7 @@
 4113 Mahou no Mako-chan
 518 Mahou no Princess Minky Momo
 5953 Mahou no Princess Minky Momo: Yume wo Dakishimete
+178749 Mahou no Shimai Lulluto Lilly
 604 Mahou no Stage Fancy Lala
 2038 Mahou no Star Magical Emi
 2044 Mahou no Tenshi Creamy Mami
@@ -2955,6 +3048,7 @@
 3878 Mahou Shoujo Lalabel
 76 Mahou Shoujo Lyrical Nanoha
 77 Mahou Shoujo Lyrical Nanoha A's
+185875 Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance
 1915 Mahou Shoujo Lyrical Nanoha StrikerS
 20820 Mahou Shoujo Lyrical Nanoha ViVid
 9756 Mahou Shoujo Madoka★Magica
@@ -3021,6 +3115,7 @@
 3226 Major S4
 5028 Major S5
 7655 Major S6
+186333 Majutsushi Kunon wa Mieteiru
 1017 Majutsushi Orphen
 101367 Majutsushi Orphen Hagure Tabi
 117085 Majutsushi Orphen Hagure Tabi: Kimluck-hen
@@ -3031,12 +3126,14 @@
 16890 Makai Ouji: Devils and Realist
 860 Makai Senki Disgaea
 171457 Make Heroine ga Oosugiru!
+189796 Make Heroine ga Oosugiru! 2nd Season
 9936 Maken-Ki!
 15565 Maken-Ki! Two
 98252 Makeruna!! Aku no Gundan!
 3162 Makiba no Shoujo Katri
 21179 Makura no Danshi
 3880 Makyou Densetsu Acrobunch
+196239 Mama Ohanashi Kikasete
 4782 Mama wa Poyopoyo Saurus ga Osuki
 333 Mama wa Shougaku 4-nensei
 136934 Mamahaha no Tsurego ga Motokano datta
@@ -3119,14 +3216,17 @@
 7761 Masuda Kousuke Gekijou: Gag Manga Biyori +
 2518 Masuda Kousuke Gekijou: Gag Manga Biyori 2
 4056 Masuda Kousuke Gekijou: Gag Manga Biyori 3
+185259 Masuda Kousuke Gekijou: Gag Manga Biyori Go
 335 Matantei Loki Ragnarok
 141821 Mato Seihei no Slave
-176276 Mato Seihei no Slave 2nd Season
+176276 Mato Seihei no Slave 2
 169227 Matsuinu
+180460 Mattaku Saikin no Tantei to Kitara
 10721 Mawaru Penguindrum
 10110 Mayo Chiki!
 7590 Mayoi Neko Overrun!
 21567 Mayoiga
+187942 Mayonaka Heart Tune
 102939 Mayonaka no Occult Koumuin
 174044 Mayonaka Punch
 10239 Mayutoro The Toons
@@ -3140,6 +3240,7 @@
 11761 Medaka Box
 14527 Medaka Box Abnormal
 165171 Medalist
+189275 Medalist 2nd Season
 1138 Medarot
 4052 Medarot Damashii
 100298 Megalo Box
@@ -3151,13 +3252,13 @@
 87502 Megaton-kyuu Musashi
 142541 Megaton-kyuu Musashi 2nd Season
 158791 Megumi no Daigo: Kyuukoku no Orange
+187061 Mei Hou Wang (2010)
 171144 Meiji Gekken: 1874
 99000 Meiji Tokyo Renka
 3836 Meiken Jolie
 3425 Meiken Lassie
 120608 Meikyuu Black Company
 4121 Meimon! Daisan Yakyuu-bu
-130366 Meisaku World
 129656 Meishi Da Maoxian
 129657 Meishi Da Maoxian: Huore Zhi Lu
 129658 Meishi Da Maoxian: Wenming Zhi Lu
@@ -3173,6 +3274,8 @@
 521 Mermaid Melody Pichi Pichi Pitch
 1110 Mermaid Melody Pichi Pichi Pitch Pure
 20795 Meshimase Lodoss-tou Senki: Sorette Oishii no?
+188804 Metal Cardbot
+188805 Metal Cardbot S
 5962 Metal Fight Beyblade
 10370 Metal Fight Beyblade 4D
 13231 Metal Fight Beyblade Zero G
@@ -3204,6 +3307,7 @@
 3345 Mikan Enikki
 87516 Mikan Seijin Arawaru
 6907 Mikan-Seijin
+188487 Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu
 20793 Military!
 21044 Million Doll
 21571 Mim Mam Mint
@@ -3218,9 +3322,16 @@
 21446 Mini Hama: Minimum Hamatora
 4104 Mini Moni the TV
 7452 Mini Moni Yaru no da Pyon!
+188819 Mini Teukgongdae X Part 2
+188822 Mini Teukgongdae: Super Gongnyong Power Part 2
 105387 Mini Toji
 18391 Mini Van
 21344 Mini Van 2nd Season
+188817 Miniforce X
+188821 Miniforce: Super Dino Power
+186752 Minimini Minini
+188826 Miniteukgongdae: Animal Tron
+188827 Miniteukgongdae: V Rangers
 20538 Minna Atsumare! Falcom Gakuen
 20822 Minna Atsumare! Falcom Gakuen SC
 5273 Miracle Giants Doumu-kun
@@ -3251,6 +3362,7 @@
 153344 Mix: Meisei Story 2nd Season - Nidome no Natsu, Sora no Mukou e
 9395 Miyanishi Tatsuya Gekijou: Omae Umasou da na
 2231 Miyuki
+186052 Mizu Zokusei no Mahoutsukai
 1040 Mizuiro Jidai
 8424 MM!
 3342 Mnemosyne: Mnemosyne no Musume-tachi
@@ -3293,6 +3405,7 @@
 21363 Monster Hunter Stories: Ride On
 21093 Monster Musume no Iru Nichijou
 113286 Monster Musume no Oishasan
+196230 Monster Strike: Deadverse Reloaded
 3313 Montana Jones
 1941 Moonlight Mile 1st Season: Lift Off
 2929 Moonlight Mile 2nd Season: Touch Down
@@ -3319,11 +3432,13 @@
 3001 Moyashimon
 13409 Moyashimon Returns
 110451 Mr. Shadow
+183128 Muchuu sa, Kimi ni.
 4151 Mugen no Juunin
 593 Mugen no Ryvius
 2735 Mugen Senki Portriss
 101340 Muhyo to Rouji no Mahouritsu Soudan Jimusho
 110028 Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season
+196219 Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
 709 Mujin Wakusei Survive
 4086 Mukamuka Paradise
 138953 Mukashi Keibanashi
@@ -3362,7 +3477,7 @@
 112716 Muv-Luv Alternative
 142985 Muv-Luv Alternative 2nd Season
 11021 Muv-Luv Alternative: Total Eclipse
-177633 Muzik Tiger
+177633 Muzik Tiger In the Forest
 151189 My Home Hero
 2926 Myself; Yourself
 738 MÄR
@@ -3373,6 +3488,7 @@
 1722 Nagasarete Airantou
 20566 Nagato Yuki-chan no Shoushitsu
 175019 Nageki no Bourei wa Intai shitai
+185801 Nageki no Bourei wa Intai shitai Part 2
 16067 Nagi no Asu kara
 1740 Naikaku Kenryoku Hanzai Kyousei Torishimarikan Zaizen Joutarou
 321 Najica Dengeki Sakusen
@@ -3460,6 +3576,7 @@
 121672 Neko no Robu
 20703 Neko Pitcher
 110452 Neko to Mata
+186863 Neko to Ryuu
 9934 Nekogami Yaoyorozu
 1062 Nekojiru Gekijou Jirujiru Original
 106863 Nekopara
@@ -3477,6 +3594,7 @@
 97833 Netsuzou TRap
 21455 New Game!
 98292 New Game!!
+151799 New Panty & Stocking with Garterbelt
 4929 Next Senki Ehrgeiz
 111939 Nezha Chuanqi
 2084 NG Knight Ramune & 40
@@ -3500,6 +3618,7 @@
 154785 Nijiyon Animation
 172242 Nijiyon Animation 2
 3673 Nijuu Mensou no Musume
+196240 Nikoniko, Pun
 99963 Nil Admirari no Tenbin
 2151 Nils no Fushigi na Tabi
 137909 Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu
@@ -3513,6 +3632,7 @@
 18845 Ninja Hattori-kun (2012)
 151639 Ninja Kamui
 3059 Ninja Senshi Tobikage
+186914 Ninja to Gokudou
 177120 Ninja to Koroshiya no Futarigurashi
 142274 Ninjala (TV)
 159416 Ninjaman Ippei
@@ -3526,6 +3646,7 @@
 20876 Nisekoi:
 11597 Nisemonogatari
 942 Nishi no Yoki Majo: Astraea Testament
+186313 Nmeneko
 19815 No Game No Life
 108478 No Guns Life
 112803 No Guns Life 2nd Season
@@ -3546,6 +3667,7 @@
 3467 Nogizaka Haruka no Himitsu
 6023 Nogizaka Haruka no Himitsu Purezza ♪
 9106 Nogsaegjeoncha Hamos
+187860 Nohara Hiroshi: Hiru Meshi no Ryuugi
 272 Noir
 151679 Nokemono-tachi no Yoru
 113359 Nomad: Megalo Box 2
@@ -3570,6 +3692,7 @@
 18095 Nourin
 147642 Nozomanu Fushi no Boukensha
 185543 Nozomanu Fushi no Boukensha 2nd Season
+174188 Nukitashi the Animation
 108628 number24
 7592 Nurarihyon no Mago
 10049 Nurarihyon no Mago: Sennen Makyou
@@ -3602,6 +3725,7 @@
 108713 Ochikobore Fruit Tart
 110613 Oda Cinnamon Nobunaga
 11933 Oda Nobuna no Yabou
+182771 Odayaka Kizoku no Kyuuka no Susume.
 128547 Odd Taxi
 9070 Oden-kun
 18469 Odoriko Clinoppe
@@ -3615,6 +3739,7 @@
 121714 Ohayou Ninja-tai Gatchaman
 2912 Ohayou! Spank
 8415 Oi! Ryouma
+187998 Oide yo Mahou Shoujo Mura (Fuhou Senkyo)
 1093 Oishinbo
 350 Ojamajo Doremi
 353 Ojamajo Doremi Dokkaan!
@@ -3624,10 +3749,11 @@
 21239 Ojisan to Marshmallow
 155527 Ojou to Banken-kun
 177603 Okaimono Panda!
-127691 Okashi na Sabaku no Suna to Manu
 153339 Okashi na Tensei
+127691 Okashina Sabaku no Suna to Manu
 8799 Okawari-Boy Starzan-S
 166699 Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru
+191205 Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni
 103872 Okoshiyasu, Chitose-chan
 20984 Okusama ga Seitokaichou!
 21610 Okusama ga Seitokaichou!+!
@@ -3670,6 +3796,7 @@
 119793 Oniku Daisuki! Zeushi-kun
 144676 Onipan!
 20085 Only You: Viva! Cabaret Club
+187387 Onmyou Kaiten Re:Birth
 613 Onmyou Taisenki
 21246 Onsen Yousei Hakone-chan
 164440 Ooi! Tonbo
@@ -3721,6 +3848,7 @@
 164244 Oroka na Tenshi wa Akuma to Odoru
 98657 Osake wa Fuufu ni Natte kara
 124675 Osananajimi ga Zettai ni Makenai Love Comedy
+189565 Osananajimi to wa Love Comedy ni Naranai
 104391 Oshi ga Budoukan Ittekuretara Shinu
 101985 Oshiete Mahou no Pendulum: Rilu Rilu Fairilu
 21472 Oshiete! Galko-chan
@@ -3736,12 +3864,14 @@
 179870 Oshiri Tantei 6th Season
 179871 Oshiri Tantei 7th Season
 179872 Oshiri Tantei 8th Season
+185644 Oshiri Tantei 8th Season
 185645 Oshiri Tantei 9th Season
 9884 Osomatsu-kun
 9883 Osomatsu-kun (1988)
 21261 Osomatsu-san
 98565 Osomatsu-san 2nd Season
 120851 Osomatsu-san 3rd Season
+177880 Osomatsu-san 4th Season
 20023 Otanoshimi Anime Gekijou
 607 Otogi Juushi Akazukin
 14213 Otogi Manga Calendar
@@ -3783,6 +3913,7 @@
 21262 Owarimonogatari
 12393 Oyako Club
 2783 Oyayubi Hime Monogatari
+196062 Oyo Neko Bunyan
 2826 Oz no Mahoutsukai (TV)
 12677 Ozma
 21641 Ozmafia!!
@@ -3904,6 +4035,10 @@
 158870 Pokemon: Mezase Pokemon Master
 6779 Pokonyan!
 165314 Pon no Michi
+177226 Ponkotsu Quest: Maou to Haken no Mamono-tachi (2016)
+177227 Ponkotsu Quest: Maou to Haken no Mamono-tachi (2017)
+177230 Ponkotsu Quest: Maou to Haken no Mamono-tachi (2021)
+177231 Ponkotsu Quest: Maou to Haken no Mamono-tachi (2024)
 6560 Popee the Performer
 592 PopoloCrois
 4191 Popolocrois Monogatari
@@ -3924,6 +4059,8 @@
 1656 PostPet Momobin
 2744 Potemayo
 161992 Potion-danomi de Ikinobimasu!
+188808 Power Battle Watch Car
+188809 Power Battle Watch Car Season 2
 163 Power Stone
 12021 Poyopoyo Kansatsu Nikki
 136206 Pretty All Friends Selection
@@ -3972,6 +4109,7 @@
 185755 Puniru wa Kawaii Slime 2nd Season
 155526 Punirunes
 179292 Punirunes: Puni 2
+188653 Punirunes: Puni 3
 19315 Pupa
 20525 Pupipo!
 126793 Puraore! Pride of Orange
@@ -3988,6 +4126,7 @@
 129296 Q Ban Sanguo: San Xiaoqiang
 20974 Q Transformers: Kaette Kita Convoy no Nazo
 21210 Q Transformers: Saranaru Ninki Mono e no Michi
+186755 Qin Han Ying Xiong Zhuan
 138673 Qin Mo Zhuan
 9806 Qin Shi Mingyue: Bai Bu Fei Jian
 15905 Qin Shi Mingyue: Wanli Changcheng
@@ -4010,12 +4149,14 @@
 127163 Rail Romanesque 2
 20583 Rail Wars!
 171659 Rainbow Bubblegem
+188039 Rainbow Bubblegem 2: Secret
 9438 Rainbow Sentai Robin
 6114 Rainbow: Nisha Rokubou no Shichinin
 170468 Raise wa Tanin ga Ii
 21092 Rakudai Kishi no Cavalry
 2244 Rakugo Tennyo Oyui
 170998 Ramen Akaneko
+185699 Ramen Akaneko 2nd Season
 98529 Ramen Daisuki Koizumi-san
 210 Ranma 1/2
 149939 Ranma 1/2 Nettou Hen
@@ -4035,6 +4176,7 @@
 108632 Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
 119661 Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
 163134 Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season
+189046 Re:Zero kara Hajimeru Isekai Seikatsu 4th Season
 20711 Re:␣Hamatora
 113469 Rebirth
 166686 Rebuild World
@@ -4043,6 +4185,7 @@
 18099 Recorder to Randoseru Mi☆
 13377 Recorder to Randoseru Re♪
 2283 Red Baron
+168628 Red Fox
 1601 Red Garden
 21707 Regalia: The Three Sacred Stars
 1693 Reideen
@@ -4059,6 +4202,7 @@
 941 Renkin San-kyuu Magical? Pokaan
 103118 Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches
 2369 Rental Magica
+186744 Replica datte, Koi wo Suru.
 6674 Reporter Blues
 10607 Rerere no Tensai Bakabon
 99413 RErideD: Tokigoe no Derrida
@@ -4072,6 +4216,7 @@
 3372 RGB Adventure
 3024 Ribbon no Kishi
 13459 Ribbon-chan
+150103 Rick and Morty: The Anime
 4618 RideBack
 104679 Rifle Is Beautiful
 107067 Rikei ga Koi ni Ochita no de Shoumei shitemita.
@@ -4080,9 +4225,9 @@
 98421 Rilu Rilu Fairilu: Mahou no Kagami
 21553 Rilu Rilu Fairilu: Yousei no Door
 23 Ring ni Kakero 1
-7793 Ring ni Kakero 1: Kage Dou-hen
 1771 Ring ni Kakero 1: Nichibei Kessen-hen
 10346 Ring ni Kakero 1: Sekai Taikai-hen
+7793 Ring ni Kakero 1: Shadow-hen
 163141 Rinkai!
 11227 Rinne no Lagrange
 12281 Rinne no Lagrange Season 2
@@ -4135,9 +4280,11 @@
 130319 RPG Fudousan
 2362 Run=Dim
 111501 Runway de Waratte
+180929 Ruri no Houseki
 45 Rurouni Kenshin: Meiji Kenkaku Romantan
 142877 Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
 171637 Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran
+188665 Rurouni Kenshin: Meiji Kenkaku Romantan 3rd Season
 181865 Rusuden Hour: Sodan Brothers
 146668 RWBY: Hyousetsu Teikoku
 140502 Ryman's Club
@@ -4176,6 +4323,7 @@
 129598 Sai Er Hao Season 9: Pili Jiuchong Tian
 173216 Sai-Kyo-Oh! Zukan: The Ultimate Battles
 185718 Sai-Kyo-Oh! Zukan: The Ultimate Tournament
+181447 Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka
 132473 Saihate no Paladin
 143085 Saihate no Paladin: Tetsusabi no Yama no Ou
 21188 Saijaku Muhai no Bahamut
@@ -4265,6 +4413,8 @@
 3819 Sasurai no Taiyou
 136645 Sasurai-kun
 99629 Satsuriku no Tenshi
+187331 Sawaranaide Kotesashi-kun
+177637 Sayonara Lara
 123494 Sayonara Watashi no Cramer
 2605 Sayonara Zetsubou Sensei
 176053 Sayounara Ryuusei, Konnichiwa Jinsei
@@ -4282,8 +4432,6 @@
 167 Scrapped Princess
 2391 SD Gundam Force
 8287 SD Gundam Sangokuden Brave Battle Warriors
-163793 Seasons of Blossom
-186202 Secret Jouju Star Jewel (Season 1)
 2361 Sei Juushi Bismarck
 4332 Seigi wo Aisuru Mono Gekkou Kamen
 184951 Seihantai na Kimi to Boku
@@ -4313,6 +4461,7 @@
 929 Seisenshi Dunbine
 4723 Seishun Anime Zenshuu
 101291 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+171046 Seishun Buta Yarou wa Santa Claus no Yume wo Minai
 5909 Seitokai no Ichizon
 8675 Seitokai Yakuindomo
 20448 Seitokai Yakuindomo*
@@ -4409,6 +4558,7 @@
 5220 Shangri-La
 151970 Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su
 176508 Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season
+189323 Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 3rd Season
 129272 Shen Bing Xiaojiang
 129274 Shen Bing Xiaojiang 2
 129278 Shen Chu Xiaofu Gui
@@ -4416,8 +4566,10 @@
 2934 Shiawase Sou no Okojo-san
 13141 Shiba Inuko-san
 1739 Shibawanko no Wa no Kokoro
+180746 Shibou Yuugi de Meshi wo Kuu.
 176577 Shibuya♡Hachi
 181835 Shibuya♡Hachi Part 2
+185715 Shibuya♡Hachi Part 3
 623 Shichinin no Nana
 100085 Shichisei no Subaru
 20665 Shigatsu wa Kimi no Uso
@@ -4496,6 +4648,7 @@
 12367 Shining Hearts: Shiawase no Pan
 107738 Shining Star
 2031 Shining Tears X Wind
+184322 Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & "Zamaa!" Shimasu!
 129068 Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei
 15579 Shinkai Densetsu Meremanoid
 172395 Shinkalion: Change the World
@@ -4511,8 +4664,8 @@
 163292 Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.
 139369 Shinmai Renkinjutsushi no Tenpo Keiei
 170041 Shinobanai! Crypto Ninja Sakuya
-181867 Shinobanai! Crypto Ninja Sakuya 3rd Season
 172852 Shinobanai! Crypto Ninja Sakuya: Ni no Maki
+181867 Shinobanai! Crypto Ninja Sakuya: San no Maki
 145604 Shinobi no Ittoki
 116 Shinpi no Sekai El-Hazard (TV)
 7662 Shinrei Tantei Yakumo
@@ -4588,17 +4741,20 @@
 7082 Shugo Chara! Party!
 5262 Shugo Chara!! Doki
 6979 Shukufuku no Campanella
+190143 Shunkashuutou Daikousha: Haru no Mai
 3098 Shutsugeki! Machine Robo Rescue
 10541 Shuukan Shimakou
 13551 Shuukan Storyland
 21860 Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?
 21838 Shuumatsu no Izetta
+186920 Shuumatsu Touring
 155657 Shuumatsu Train Doko e Iku?
 155389 Shy
 171748 Shy 2nd Season
 19775 Sidonia no Kishi
 20762 Sidonia no Kishi: Daikyuu Wakusei Seneki
 1517 Silent Möbius
+179966 Silent Witch: Chinmoku no Majo no Kakushigoto
 1863 Silk Road Shounen Yuuto
 879 Simoun
 20705 Sin: Nanatsu no Taizai
@@ -4645,6 +4801,7 @@
 129610 Sonic X Season 2
 132126 Sonny Boy
 132405 Sono Bisque Doll wa Koi wo Suru
+154768 Sono Bisque Doll wa Koi wo Suru Season 2
 104073 Sono Toki, Kanojo wa.
 11609 Sono Toki, Shimakou ga Ugoita!
 6098 Sora no Manimani
@@ -4682,11 +4839,13 @@
 21499 Sousei no Onmyouji
 21873 Soushin Shoujo Matoi
 154587 Sousou no Frieren
+182255 Sousou no Frieren 2nd Season
 5226 Souten Kouro
 1541 Souten no Ken
 100408 Souten no Ken: Regenesis
 102860 Souten no Ken: Regenesis 2nd Season
 17619 Souya Monogatari
+187663 Sozai Saishuka no Isekai Ryokouki
 102925 Space Bug
 2451 Space Cobra
 3451 Space Oz no Bouken
@@ -4756,6 +4915,7 @@
 1532 Suki na Mono wa Suki Dakara Shou ga Nai!!
 14289 Suki tte Ii na yo.
 1837 Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoida
+188884 Sumikko Gurashi: Koko ga Ochitsukun desu
 170511 Sumikko Gurashi: Sorairo no Mainichi
 117969 Sumiko (TV)
 143200 Summer Pockets
@@ -4797,6 +4957,10 @@
 170220 Sylvanian Families: Freya no Go for Dream!
 168559 Sylvanian Families: Freya no Happy Diary
 182157 Sylvanian Families: Freya no Piece of Secret
+187052 Sylvanian Families: Mini Story
+187054 Sylvanian Families: Mini Story - Clover
+187055 Sylvanian Families: Mini Story - Peony
+187053 Sylvanian Families: Mini Story 2nd Season
 154643 Synduality: Noir
 169559 Synduality: Noir Part 2
 21544 Tabi Machi Late Show
@@ -4808,6 +4972,7 @@
 100179 Tada-kun wa Koi wo Shinai
 169698 Tadaima, Okaeri
 111728 Taeko no Nichijou
+128757 Tai-Ari deshita.: Ojousama wa Kakutou Game nante Shinai
 7522 Taichi Senjimon
 1372 Taiho Shichau zo (TV)
 2011 Taiho Shichau zo Special
@@ -4819,7 +4984,7 @@
 127412 Taishou Otome Otogibanashi
 5141 Taishou Yakyuu Musume.
 122807 Taisou Zamurai
-2257 Taiyou no Kiba Dagram
+2257 Taiyou no Kiba Dougram
 1279 Taiyou no Ko Esteban
 4532 Taiyou no Yuusha Fighbird
 186621 Taiyou yori mo Mabushii Hoshi
@@ -4827,7 +4992,6 @@
 620 Takahashi Rumiko Gekijou Ningyo no Mori
 21079 Takamiya Nasuno desu! Teekyuu Spin-off
 2618 Takarajima
-185407 Takopii no Genzai
 3937 Takoyaki Mant-Man
 131565 Takt Op. Destiny
 99753 Takunomi.
@@ -4846,6 +5010,7 @@
 110130 Tamayomi
 10232 Tamayura: Hitotose
 15731 Tamayura: More Aggressive
+178005 Tamon-kun Ima Docchi!?
 21495 Tanaka-kun wa Itsumo Kedaruge
 14333 Tanken Driland
 17969 Tanken Driland: 1000-nen no Mahou
@@ -4897,6 +5062,7 @@
 105074 Tejina-senpai
 2679 Teki wa Kaizoku: Neko-tachi no Kyouen
 4663 Tekken Chinmi
+188078 Telemonster
 3668 Telepathy Shoujo Ran
 160447 Temple
 696 Tenchi Muyou!
@@ -4920,9 +5086,12 @@
 153332 Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
 164702 Tensei Kizoku, Kantei Skill de Nariagaru
 178434 Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
+185756 Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season
 153629 Tensei Oujo to Tensai Reijou no Mahou Kakumei
+187402 Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu
 156415 Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu
 178090 Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season
+187941 Tensei shitara Dragon no Tamago datta
 139587 Tensei shitara Ken deshita
 159042 Tensei shitara Ken deshita 2
 101280 Tensei shitara Slime Datta Ken
@@ -4961,6 +5130,7 @@
 4853 Tezuka Osamu no Don Dracula
 2282 Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning
 7629 The Arari Show
+194317 The Beginning After the End Season 2
 567 The Big O
 129608 The Big O II
 163794 The Boxer
@@ -4994,6 +5164,7 @@
 119806 Thunderbolt Fantasy 3
 138522 Thunderbolt Fantasy 4
 99557 Thunderbolt Fantasy: Sword Seekers 2
+193472 Tian Jiang Xiaozi
 121235 Tian Xin Ge Ge
 121237 Tian Xin Ge Ge 2nd Season
 186150 Tian Zhen Yu Kung Fu Wa
@@ -5019,13 +5190,16 @@
 98521 Time Bokan: Gyakushuu no San Akunin
 21824 Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi
 2820 Time Travel Tondekeman!
-97616 To Be Hero
+188066 Titipo Titipo
+188067 Titipo Titipo 2
+188068 Titipo Titipo 3
 472 To Heart
 471 To Heart 2
 685 To Heart: Remember My Memories
 3455 To LOVE-Ru
 13663 To LOVE-Ru Darkness
 20995 To LOVE-Ru Darkness 2nd
+186742 Toaru Anbu no Item
 19117 Toaru Hikuushi e no Koiuta
 104463 Toaru Kagaku no Accelerator
 6213 Toaru Kagaku no Railgun
@@ -5062,12 +5236,15 @@
 154876 Tokyo Mew Mew New ♡ 2nd Season
 16011 Tokyo Ravens
 120120 Tokyo Revengers
+178083 Tokyo Revengers: Santen Sensou-hen
 142853 Tokyo Revengers: Seiya Kessen-hen
 163329 Tokyo Revengers: Tenjiku-hen
 1703 Tokyo Tribe 2
 175 Tokyo Underground
 2577 Tom Sawyer no Bouken
 159454 Tom to Jerry Gokko
+196227 TOMICA & TOM
+196229 Tomica Heroes Jobraver: Tokusou Gattai Robo (TV)
 98077 Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu
 114717 Tomica Kizuna Gattai: Earth Granner
 151806 Tomo-chan wa Onnanoko!
@@ -5084,7 +5261,7 @@
 6730 Tonde Mon Pe
 5833 Tondemo Senshi Muteking
 156067 Tondemo Skill de Isekai Hourou Meshi
-170577 Tondemo Skill de Isekai Hourou Meshi 2nd Season
+170577 Tondemo Skill de Isekai Hourou Meshi 2
 3075 Tondera House no Daibouken
 147105 Tongari Boushi no Atelier
 3754 Tongari Boushi no Memole
@@ -5111,6 +5288,7 @@
 177474 Tougen Anki
 658 Touhai Densetsu Akagi: Yami ni Maiorita Tensai
 173263 Touhai: Ura Rate Mahjong Touhairoku
+187464 Toujima Tanzaburou wa Kamen Rider ni Naritai
 2105 Touka Gettan
 150085 Touken Ranbu Kai: Kyoden Moyuru Honnouji
 21741 Touken Ranbu: Hanamaru
@@ -5119,6 +5297,7 @@
 5022 Toushi Gordian
 2816 Toushou Daimos
 159560 Tousouchuu: Great Mission
+195153 Towa no Yuugure
 153406 Tower of God 2nd Season
 12361 Track City
 18137 Train Heroes
@@ -5178,6 +5357,7 @@
 1198 Tsuyokiss
 155838 Tsuyokute New Saga
 5992 Tsuyoshi Shikkari Shinasai
+159483 Turkey!
 95 Turn A Gundam
 109870 Turning Mecard
 109871 Turning Mecard W
@@ -5223,7 +5403,7 @@
 1737 Uchuu Senshi Baldios
 12887 Uchuu Shounen Soran
 4183 Uchuu Taitei God Sigma
-185070 Uchuujin Muumuu
+185070 Uchuujin MuuMuu
 19985 Uchuujin Pipi
 2566 Uchuujin Tanaka Tarou
 3317 Uchuusen Sagittarius
@@ -5275,6 +5455,7 @@
 1293 Urusei Yatsura
 143277 Urusei Yatsura (2022)
 155645 Urusei Yatsura (2022) 2nd Season
+192507 Uruwashi no Yoi no Tsuki
 10162 Usagi Drop
 101354 Usagi no Matthew
 21570 Usakame
@@ -5291,6 +5472,8 @@
 12711 Uta no☆Prince-sama♪ Maji Love 2000%
 21260 Uta no☆Prince-sama♪ Maji Love Legend Star
 20662 Uta no☆Prince-sama♪ Maji Love Revolutions
+166215 Utagoe wa Mille-Feuille
+186928 Utahime Dream
 122322 Utau Soccer Panda Mifanda
 856 Utawarerumono
 112640 Utawarerumono: Futari no Hakuoro
@@ -5350,9 +5533,11 @@
 101277 Wakaokami wa Shougakusei!
 19023 Wake Up, Girls!
 97933 Wake Up, Girls! Shin Shou
+130366 Waku Waku Doki Doki Meisaku World
 1986 Wakusei Robo Danguard Ace
 17106 Wala! Pyeon-uijeom The Animation
 19151 Walkure Romanze
+180436 Wandance
 2608 Wangan Midnight
 2708 Wankorobee
 8240 Wanpaku Oomukashi Kum Kum
@@ -5375,6 +5560,7 @@
 131927 Washimo 9th Season
 115142 Watanuki-san Chi no
 115654 Watanuki-san Chi to
+169420 Watari-kun no xx ga Houkai Sunzen
 179294 Wataridori to Katatsumuri
 184591 Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)
 16742 Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
@@ -5406,6 +5592,7 @@
 1745 Wild 7 Another Bouryaku Unga
 347 Wild Arms: Twilight Venom
 163270 Wind Breaker
+178680 Wind Breaker Season 2
 546 Wind: A Breath of Heart (TV)
 182301 Wish Cat
 20503 Witch Craft Works
@@ -5418,7 +5605,6 @@
 9948 Wo Wei Ge Kuang
 202 Wolf's Rain
 6918 Wolverine
-180436 Wondance
 4088 Wonder 3
 4083 Wonder Beat Scramble
 12809 Wonder Bebil-kun
@@ -5448,7 +5634,9 @@
 129271 Xi Jou Ji (2010)
 131574 Xi Yangyang Yu Hui Tai Lang: Qi Si Miao Xiang Xi Yangyang
 107070 Xi Yangyang Yu Hui Tailang
+196246 Xi Yangyang Yu Hui Tailang: Aoyou Shenmi Yang
 131725 Xi Yangyang Yu Hui Tailang: Faming Da Zuozhan
+196248 Xi Yangyang Yu Hui Tailang: Fengkuang Chao Neng Ying
 131589 Xi Yangyang Yu Hui Tailang: Gei Kuaile Jiayou
 131590 Xi Yangyang Yu Hui Tailang: Jingji Da Lianmeng
 131783 Xi Yangyang Yu Hui Tailang: Juezhan Ci Shidai
@@ -5456,20 +5644,26 @@
 131591 Xi Yangyang Yu Hui Tailang: Kaixin Riji
 131728 Xi Yangyang Yu Hui Tailang: Kua Shikong Jiu Bing
 131732 Xi Yangyang Yu Hui Tailang: Kuang Chu Shengli
+196250 Xi Yangyang Yu Hui Tailang: Kuang Ye Xin Yuzhou
 131593 Xi Yangyang Yu Hui Tailang: Lan Yangyang Dang Dachu
 131597 Xi Yangyang Yu Hui Tailang: Mama Le Fengkuang
 131765 Xi Yangyang Yu Hui Tailang: Man Jing Tou
+196249 Xi Yangyang Yu Hui Tailang: Qi Xia da Yingjiu
 131726 Xi Yangyang Yu Hui Tailang: Qihuan Tiankong Dao
+196244 Xi Yangyang Yu Hui Tailang: Qimiao da Yingjiu
 131729 Xi Yangyang Yu Hui Tailang: Qiqu Waixing Ke
 131722 Xi Yangyang Yu Hui Tailang: Shenhai Lixian Ji
 131604 Xi Yangyang Yu Hui Tailang: Xiha Chuang Shijie
+196247 Xi Yangyang Yu Hui Tailang: Xin Shijie Qiyu
 131727 Xi Yangyang Yu Hui Tailang: Yang Cun Shouhuzhe
 131569 Xi Yangyang Yu Hui Tailang: Yangyang Kuaile De Yi Nian
+131781 Xi Yangyang Yu Hui Tailang: Yangyang Qu Maoxian
 131594 Xi Yangyang Yu Hui Tailang: Yangyang Xiao Xinyuan
 131721 Xi Yangyang Yu Hui Tailang: Yangyang Xiao Zhentan
 131567 Xi Yangyang Yu Hui Tailang: Yangyang Yundonghui
 131595 Xi Yangyang Yu Hui Tailang: Yichu Da Maoxian
 131731 Xi Yangyang Yu Hui Tailang: Yiguo Da Yingjiu
+196245 Xi Yangyang Yu Hui Tailang: Yong Chuang Siji Cheng
 131599 Xi Yangyang Yu Hui Tailang: Yuanshi Shijie Lixian Ji
 102765 Xi You Ji
 102156 Xia Lan
@@ -5478,6 +5672,7 @@
 104184 Xiao Hua Xian
 107300 Xiao Hua Xian 2nd Season
 107301 Xiao Hua Xian 3rd Season: Shou Hu Tian Shi
+187592 Xiao Ling Mofa Shijie Xiaoyuan Qixiang Qu
 104183 Xiao Liyu Lixian Ji
 129356 Xiao Qingtian Situ Gong
 129493 Xiao Song Dangjia
@@ -5525,6 +5720,7 @@
 170953 Yami Shibai 12
 177922 Yami Shibai 13
 185088 Yami Shibai 14
+194088 Yami Shibai 15
 20669 Yami Shibai 2
 21473 Yami Shibai 3
 97890 Yami Shibai 4
@@ -5541,6 +5737,7 @@
 10705 Yasai no Yousei: N.Y.Salad
 10706 Yasai no Yousei: N.Y.Salad 2nd Series
 87518 Yasamura Yasashi no Yasashii Sekai
+180523 Yasei no Last Boss ga Arawareta!
 1891 YAT Anshin! Uchuu Ryokou
 1892 YAT Anshin! Uchuu Ryokou 2
 102064 Yatogame-chan Kansatsu Nikki
@@ -5561,16 +5758,19 @@
 1543 Yoake Mae yori Ruriiro na: Crescent Love
 5474 Yobarete Tobidete Akubi-chan
 141391 Yofukashi no Uta
-175914 Yofukashi no Uta 2nd Season
+175914 Yofukashi no Uta Season 2
 4591 Yoiko
 7785 Yojouhan Shinwa Taikei
 970 Yokoyama Mitsuteru Sangokushi
 5454 Yoku Wakaru Gendai Mahou
 102366 Yoligongju Loopy
 157553 Yomawari Neko
+195600 Yomi no Tsugai
 798 Yomigaeru Sora: Rescue Wings
 10216 Yondemasu yo, Azazel-san. (TV)
 16241 Yondemasu yo, Azazel-san. Z
+187593 YooHoo Chingudeul
+194318 Yoroi Shin Den Samurai Troopers
 1264 Yoroiden Samurai Troopers
 7160 Yoroshiku Mechadock
 163078 Yoru no Kurage wa Oyogenai
@@ -5601,6 +5801,7 @@
 135443 Yousei Land Mukashibanashi
 162717 YouTuNya
 176635 YouTuNya 2nd Season
+189602 YouTuNya 3rd Season
 12771 Youyou no Neko Tsumami
 18179 Yowamushi Pedal
 99476 Yowamushi Pedal: Glory Line
@@ -5640,6 +5841,7 @@
 10495 Yuru Yuri
 21088 Yuru Yuri San☆Hai!
 12403 Yuru Yuri♪♪
+189716 Yurukawa Mell-chan
 12123 Yurumates 3D
 14693 Yurumates 3D Plus
 1246 Yuugo: Koushounin
@@ -5658,7 +5860,11 @@
 148109 Yuusha ga Shinda!
 5075 Yuusha Keisatsu J-Decker
 18677 Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.
+187989 Yuusha no Kuzu
+195515 Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.
+187264 Yuusha Party wo Oidasareta Kiyoubinbou
 150695 Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
+179885 Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru
 2128 Yuusha Raideen
 3505 Yuusha Shirei Dagwon
 3486 Yuusha Tokkyuu Might Gaine
@@ -5695,6 +5901,7 @@
 5821 Zenmai Zamurai
 3704 Zenryoku Usagi
 145000 Zenryoku Usagi (2023)
+184182 Zenryoku Usagi (2023) 2nd Season
 176273 Zenshuu.
 4444 Zero Duel Masters
 97682 Zero kara Hajimeru Mahou no Sho

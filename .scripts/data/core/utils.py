@@ -1,6 +1,10 @@
 import os
 from typing import TextIO
 
+HEADERS = {
+    "User-Agent": "modmail-plugins/1.0 (https://github.com/RealCyGuy/modmail-plugins)",
+}
+
 
 def open_data_file(name: str) -> TextIO:
     return open(

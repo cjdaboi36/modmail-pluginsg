@@ -35,6 +35,10 @@ actions have consequences
 actions speak louder than words
 a danger foreseen is half avoided
 a drowning man will clutch at a straw
+a drowning man will grab at a straw
+a drowning man will grab at straws
+a drowning man will grasp at a straw
+a drowning man will grasp at straws
 a dumb priest never got a parish
 a fair booty makes many a thief
 a fault confessed is half redressed
@@ -47,6 +51,7 @@ a good beginning makes a good ending
 a good conscience is a soft pillow
 a good deed is its own reward
 a healthy body is a healthy mind
+a hit dog hollers
 a hit dog will holler
 a house divided against itself cannot stand
 a house is not a home
@@ -75,6 +80,7 @@ all roads lead to Mecca
 all roads lead to Rome
 all roads lead to Sydney
 all's fair in love and war
+all's fish that comes to the net
 all's well that ends well
 all that glisters is not gold
 all that glitters
@@ -99,6 +105,7 @@ a new broom sweeps clean, but an old broom knows the corners
 a new broom sweeps clean, but the old broom knows the corners
 an eye for an eye, a tooth for a tooth
 an eye for an eye makes the whole world blind
+an image is worth a thousand words
 a nod is as good as a wink
 a nod is as good as a wink to a blind horse
 an old dog for a hard road
@@ -107,6 +114,7 @@ another day in paradise
 an ounce of prevention is better than an ounce of cure
 an ounce of prevention is better than a pound of cure
 an ounce of prevention is worth a pound of cure
+any exposure is good exposure
 any hole's a goal
 any port in a storm
 any press is good press
@@ -150,7 +158,6 @@ attack is the best form of defence
 attack is the best form of defense
 attitude reflects leadership
 a twig in a bundle cannot be broken
-a twig in a bundle can't be broken
 a twig in a bundle is unbreakable
 a watched kettle never boils
 a watched pot never boils
@@ -171,6 +178,7 @@ beauty is only skin deep
 beauty never boiled the pot
 beauty won't boil the pot
 beauty won't make the pot boil
+beer before liquor, never been sicker; liquor before beer, you're in the clear
 beggars can't be choosers
 behind every great man is a great woman
 behind every great man there stands a woman
@@ -184,6 +192,7 @@ better dead than red
 better dead than Red
 better Dead than Red
 better is the enemy of good
+better one word in time than two afterwards
 better safe than sorry
 better the devil you know
 better the devil you know than the devil you don't
@@ -196,6 +205,7 @@ better to light one candle than to curse the darkness
 better to light one small candle than to curse the darkness
 bet the jockey, not the horse
 beware of Greeks bearing gifts
+big fish eat little fish
 big things come in small packages
 bi now, gay later
 bird in the hand
@@ -209,6 +219,7 @@ bros before hoes
 bros before hos
 business before pleasure
 buy cheap, buy twice
+buy the same horse twice
 by failing to prepare, you are preparing to fail
 Caesar's wife must be above suspicion
 cannot live with them, cannot live without them
@@ -219,8 +230,6 @@ care killed a cat
 care killed the cat
 carpe diem
 cast not a clout till May be out
-cats rule; dogs drool
-cats rule, dogs drool
 caveat lector
 charity begins at home
 cheaters never prosper
@@ -235,6 +244,7 @@ close only counts in horseshoes
 close only counts in horseshoes and darts
 close only counts in horseshoes and hand grenades
 clothes don't make the man
+clothes make the man
 clothes maketh the man
 cobbler, keep to your last
 cold hands, warm heart
@@ -262,6 +272,9 @@ dance with the one who brought ya
 dance with the one who brought you
 dance with the one who brung ya
 dance with the one who brung you
+danger past and God forgotten
+danger past, God forgotten
+danger past, God is forgotten
 dead men can tell no tales
 dead men tell no tales
 death is the great leveller
@@ -288,6 +301,7 @@ don't change a winning team
 don't count your chickens
 don't count your chickens before the eggs have hatched
 don't count your chickens before they're hatched
+don't count your chickens before they've hatched
 don't count your chicks
 don't count your chicks before they hatch
 don't count your chicks before they're hatched
@@ -328,6 +342,8 @@ each to his own
 early to bed, early to rise, makes a man healthy, wealthy and wise
 eat, drink and be merry
 eat, drink and be merry for tomorrow we die
+eat, drink and be merry, for tomorrow we die
+eat, drink, and be merry, for tomorrow we die
 eaten bread is soon forgotten
 eat to live, not live to eat
 ECREE
@@ -349,6 +365,7 @@ even a worm will turn
 even Homer nods
 even Jove nods
 every accusation is a confession
+every cloud
 every cloud has a silver lining
 every dark cloud has a silver lining
 every day is a school day
@@ -391,6 +408,7 @@ familiarity breeds contempt
 fas est et ab hoste doceri
 fat is flavor
 fat is flavour
+February fill dyke, be it black or be it white
 feed a cold, starve a fever
 finders, keepers
 finders, keepers; losers, weepers
@@ -425,9 +443,9 @@ get woke, go broke
 give a dog a bad name and hang him
 give a man a fish
 give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime
-give him enough rope and he'll hang himself
 given enough eyeballs, all bugs are shallow
 give someone an inch and someone will take a mile
+give someone enough rope and they'll hang themself
 give them an inch and they'll take a mile
 give them an inch and they'll take an ell
 God doesn't give with both hands
@@ -493,8 +511,10 @@ home is where the heart is
 home is where you hang your hat
 honesty is the best policy
 honey catches more flies than vinegar
+hope for the best, prepare for the worst
 hope springs eternal
 hope springs eternal in the human breast
+horses, not zebras
 how you get them is how you lose them
 hunger is a good sauce
 hunger is the best pickle
@@ -512,6 +532,8 @@ idle hands are the devil's tools
 idle hands are the Devil's tools
 idle hands are the devil's workshop
 idle hands are the Devil's workshop
+idle hands make work for the devil
+idle hands make work for the Devil
 if all you have is a hammer, everything looks like a nail
 if all you've got is a hammer, everything looks like a nail
 if at first you don't succeed
@@ -528,6 +550,7 @@ if the mountain won't come to Muhammad
 if the mountain won't come to Muhammad, then Muhammad must go to the mountain
 if there's grass on the field, play ball
 if there's grass on the pitch, play ball
+if there's grass on the wicket, let's play cricket
 if the shoe fits, wear it
 if we had ham we could have ham and eggs, if we had eggs
 if we had some ham we could have some ham and eggs, if we had some eggs
@@ -690,6 +713,7 @@ lookers-on see most of the game
 looks can be deceiving
 loose lips sink ships
 loss and gain are brothers twain
+love cannot be forced
 love conquers all
 love is blind
 love is love
@@ -736,7 +760,6 @@ money talks, bullshit walks
 money talks, wealth whispers
 money won is twice as sweet as money earned
 more haste, less speed
-move it or lose it
 move your feet, lose your seat
 murder will out
 my enemy's enemy is my friend
@@ -771,7 +794,6 @@ no gain without pain
 no good deed ever goes unpunished
 no good deed goes unpunished
 no guts, no glory
-no human is illegal
 no hymen, no diamond
 no man is an island
 no matter how much milk you put in coffee, it's still coffee
@@ -795,6 +817,7 @@ no rose without a thorn
 no sleep for the wicked
 no smoke without fire
 not all heroes wear capes
+nothing gold can stay
 nothing is certain but death and taxes
 nothing is said that has not been said before
 nothing new under the sun
@@ -809,12 +832,16 @@ once a man, twice a boy
 once a man, twice a child
 once an adult and twice a child
 once an adult, twice a child
+once a thief, always a thief
 once a woman, twice a child
 once bitten, twice shy
 once burned, twice cautious
 once burned, twice shy
 once hurt, twice shy
+once on shore, we pray no more
 once you go black, you never go back
+one bad apple can spoil the barrel
+one bad apple can spoil the whole bunch
 one bad turn deserves another
 one cannot break a stick in a bundle
 one cannot break a twig in a bundle
@@ -880,6 +907,8 @@ perfection is the enemy of good
 perfect is the enemy of good
 perfect is the enemy of good enough
 physician, heal thyself
+pink sky at night, sailors' delight; pink sky at morning, sailors take warning
+pink sky at night, sailors' delight; pink sky in the morning, sailors take warning
 pitchers have ears
 play stupid games, win stupid prizes
 plus ça change
@@ -896,6 +925,7 @@ practice makes progress
 pressure makes diamonds
 prevention is better than cure
 pride comes before a fall
+pride comes before the fall
 pride cometh before a fall
 pride goes before a fall
 pride goeth before a fall
@@ -915,6 +945,12 @@ quidquid Latine dictum sit altum videtur
 race on Sunday, sell on Monday
 ready, fire, aim
 real men don't eat quiche
+red sky at night, sailors' delight; red sky at morning, sailors take warning
+red sky at night, sailors' delight; red sky at morn, sailors forlorn
+red sky at night, sailors' delight; red sky in the morning, sailors take warning
+red sky at night, sailors' delight; red sky in the morn, sailors forlorn
+red sky at night, shepherds' delight; red sky at morning, shepherds' warning
+red sky at night, shepherds' delight; red sky in the morning, shepherds' warning
 render unto Caesar the things which are Caesar's
 repetition, repetition, repetition
 revenge is a dish best served cold
@@ -949,7 +985,6 @@ shit rolls downhill
 shoemaker, stick to your last
 short accounts make long friends
 short reckonings make long friends
-show, don't tell
 shy bairns get noot
 shy bairns get nowt
 silence is consent
@@ -967,9 +1002,12 @@ so far so bad
 some days you get the bear, other days the bear gets you
 something is better than nothing
 sometimes you eat the bear and sometimes the bear eats you
+sore boob means more boob
 sow the wind and reap the whirlwind
 sow the wind, reap the whirlwind
 spare the rod and spoil the child
+spare the rod and you will spoil the child
+spare the rod, spoil the child
 speak of the devil and he appears
 speak softly and carry a big stick
 speech is silver, but silence is golden
@@ -1034,15 +1072,20 @@ the cat would eat fish but would not wet her feet
 the chickens come home to roost
 the cobbler always wears the worst shoes
 the cobbler's children are the worst shod
+the cobbler's children go barefoot
 the course of true love never did run smooth
 the cow knows not the worth of its tail till it loses it
 the cowl does not make the monk
 the customer is always right
 the darkest hour is always just before the dawn
 the darkest hour is just before the dawn
+the darkest place is under the candlestick
+the devil finds work for idle hands
+the Devil finds work for idle hands
 the devil is in the detail
 the devil is in the details
 the devil makes work for idle hands
+the Devil makes work for idle hands
 the devil takes care of his own
 the devil that you know is better than the devil that you don't know
 the devil we know is better than the devil we don't
@@ -1079,6 +1122,7 @@ the hand that rocks the cradle rules the world
 the heart wants what it wants
 the heart wants what the heart wants
 the highest branch is not the safest roost
+the hit dog hollers
 the house always wins
 the Internet never forgets
 the jug goes to the well until it breaks
@@ -1170,6 +1214,7 @@ there's no smoke without fire
 there's no time like the present
 there's no use crying over spilt milk
 there's nowt so queer as folk
+there's one born every minute
 the revolution will not be televised
 the rich get richer
 the road to hell is paved with good intentions
@@ -1177,11 +1222,16 @@ the road to Hell is paved with good intentions
 the screwing you get isn't worth the screwing you get
 the screwing you get isn't worth the screwing you're going to get
 the screwing you get isn't worth the screwing you take
+the second mouse gets the cheese
 the shoemaker always wears the worst shoes
 the shoemaker's children go barefoot
+the shoemaker's son always goes barefoot
 the sky is the limit
 the sky's the limit
+the spirit is strong but the flesh is weak
+the spirit is strong, but the flesh is weak
 the spirit is willing but the flesh is weak
+the spirit is willing, but the flesh is weak
 the squeaky wheel gets the grease
 the squeaky wheel gets the oil
 the strong do what they can and the weak suffer what they must
@@ -1247,6 +1297,7 @@ to each his own
 to each their own
 to err is human
 to err is human; to forgive, divine
+tokens get spent
 tomorrow is another day
 tomorrow never comes
 too many chefs spoil the broth
@@ -1258,7 +1309,9 @@ too much bed makes a dull head
 too much pudding will choke a dog
 too much water drowned the miller
 to the victor go the spoils
+to the victor the spoils
 to thine own self be true
+treat 'em mean, keep 'em keen
 treat 'em mean to keep 'em keen
 treat them mean, keep them keen
 trust everybody, but always cut the cards
@@ -1284,7 +1337,6 @@ union makes strength
 united we stand, divided we fall
 unity is strength
 unity makes strength
-use it or lose it
 variety is the spice of life
 walk softly and carry a big stick
 walls have ears
@@ -1317,8 +1369,8 @@ what the eye doesn't see, the heart doesn't grieve over
 what wins on Sunday sells on Monday
 what you gain on the swings you lose on the roundabouts
 what you lose on the swings you gain on the roundabouts
-what you see is what you get
 when all you have is a hammer, everything looks like a nail
+when America sneezes, the world catches a cold
 when in doubt, do nowt
 when in Rome
 when in Rome, do as the Romans
@@ -1339,6 +1391,8 @@ when the cat's away the mice will play
 when the going gets tough, the tough get going
 when the looting starts, the shooting starts
 when you find yourself in a hole, the first thing to do is stop digging
+when you hear hoofbeats, look for horses, not zebras
+when you hear hoofbeats, think horses, not zebras
 when you hear hoofbeats, think of horses, not zebras
 when you mess with the bull, you get the horns
 when you're up to your neck in alligators, it's hard to remember that your initial objective was to drain the swamp
@@ -1373,6 +1427,7 @@ yesterday's gone
 you are never too old to learn
 you are what you eat
 you attract more flies with honey than vinegar
+you break it, you buy it
 you buy cheap, you get cheap
 you can catch more flies with honey than vinegar
 you can catch more flies with honey than with vinegar
@@ -1428,6 +1483,7 @@ you don't fish off the company pier
 you don't get owt for nowt
 you don't get something for nothing
 you don't get your nookie where you get your cookies
+you don't know what you’ve got till it's gone
 you don't look at the mantelpiece when you poke the fire
 you don't look at the mantelpiece when you're poking the fire
 you don't miss the water till the well runs dry

@@ -63,6 +63,10 @@ Phoenix's Blaze
 Phoenix's Hot Hands
 Phoenix's Curveball
 Phoenix's Run it Back
+Veto's Interceptor
+Veto's Crosscut
+Veto's Evolution
+Veto's Chokehold
 Astra's Nova Pulse
 Astra's Nebula  / Dissipate
 Astra's Gravity Well
@@ -87,6 +91,10 @@ Yoru's FAKEOUT
 Yoru's BLINDSIDE
 Yoru's GATECRASH
 Yoru's DIMENSIONAL DRIFT
+Waylay's Refract
+Waylay's Saturate
+Waylay's Lightspeed
+Waylay's Convergent Paths
 Sage's Slow Orb
 Sage's Healing Orb
 Sage's Barrier Orb
