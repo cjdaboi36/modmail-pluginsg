@@ -1,5 +1,4 @@
 import requests
-
 from core.utils import open_data_file
 
 base_url = "https://api.spotify.com/v1"
@@ -33,7 +32,8 @@ for i in range(0, len(album_ids), 20):
             for artist in track["artists"]:
                 if artist["id"] == artist_id:
                     art = True
-            song_names.append(track["name"])
+            if art:
+                song_names.append(track["name"])
 
 song_names = list(set(song_names))
 song_names.sort()
