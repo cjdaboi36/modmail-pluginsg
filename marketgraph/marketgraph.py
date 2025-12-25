@@ -3,17 +3,17 @@ import typing
 from datetime import datetime, timedelta
 
 import discord
+import matplotlib as mpl
 import numpy as np
 import pandas as pd
 import seaborn as sns
 from discord.ext import commands
-import matplotlib as mpl
 from matplotlib import pyplot as plt
 from matplotlib.dates import AutoDateLocator
 from motor.core import AgnosticCollection
 from motor.motor_asyncio import AsyncIOMotorClient
 from pymongo.collation import Collation, CollationStrength
-from pymongo.errors import InvalidName, ConfigurationError
+from pymongo.errors import ConfigurationError, InvalidName
 from scipy import stats
 
 from core import checks
@@ -90,7 +90,7 @@ class MarketGraph(commands.Cog):
         price = split[0].strip()
         item = split[1].strip()
         db = await self.db(ctx)
-        if not db:
+        if db is None:
             return
         mpl.rcParams.update(mpl.rcParamsDefault)
         sns.set_style("darkgrid")
@@ -130,7 +130,9 @@ class MarketGraph(commands.Cog):
         values = np.vstack([data["date"].values.astype("float64"), data["rate"]])
         kernel = stats.gaussian_kde(values)(values)
         g.plot_joint(sns.kdeplot, fill=True, alpha=0.5)
-        g.plot_joint(sns.scatterplot, s=70, c=kernel, cmap="magma", edgecolors=(1, 1, 1, 0.6))
+        g.plot_joint(
+            sns.scatterplot, s=70, c=kernel, cmap="magma", edgecolors=(1, 1, 1, 0.6)
+        )
         sns.lineplot(means, x=x, y=y, ax=g.ax_joint, lw=3, alpha=0.7)
         g.plot_marginals(sns.histplot, kde=True)
         g.ax_joint.xaxis.set_major_locator(
