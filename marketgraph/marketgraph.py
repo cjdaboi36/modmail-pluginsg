@@ -46,7 +46,7 @@ class MarketGraph(commands.Cog):
         self._db: typing.Optional[AgnosticCollection] = None
 
     async def db(self, ctx: commands.Context) -> typing.Optional[AgnosticCollection]:
-        if self._db:
+        if self._db is not None:
             return self._db
         try:
             config = await self.plugin_db.find_one(
